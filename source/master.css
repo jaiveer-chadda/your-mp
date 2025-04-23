@@ -1,0 +1,28 @@
+:root {
+    --background_colour: #181A1B;
+    --navbar_colour: #282828;
+}
+
+* {
+    font-family: "Lato", sans-serif;
+}
+
+body {
+    background-color: var(--background_colour);
+}
+
+.top {
+}
+
+#navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 35px;
+    background-color: var(--navbar_colour);
+}
+
+.navbar_link {
+
+}
