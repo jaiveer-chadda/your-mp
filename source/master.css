@@ -51,9 +51,12 @@ body {
 }
 
 #map_container {
-    height: calc(100vh - var(--navbar_height));
-    position: absolute;
-    bottom: 0;
+    height: calc(90vh - var(--navbar_height));
+    margin-top: calc(5vh + var(--navbar_height));
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
 }
 
 #map_container svg {
