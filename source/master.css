@@ -52,29 +52,3 @@ body {
     text-decoration: none;
     color: white;
 }
-
-#map_container {
-    height: calc(90vh - var(--navbar_height));
-    margin-top: calc(5vh + var(--navbar_height));
-
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-}
-
-#map_container svg {
-    display: block;
-    height: 100%;
-    width: auto;
-}
-
-#map_container svg path {
-    fill: white;
-    stroke: black;
-    stroke-width: calc(5px / 2);
-}
-
-#map_container svg path:hover {
-    fill: gray;
-    transition: 0.6s;
-}
