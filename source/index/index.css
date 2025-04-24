@@ -17,6 +17,9 @@
     fill: white;
     stroke: black;
     stroke-width: calc(5px / 2);
+
+    stroke-linejoin:round;
+    stroke-miterlimit:1;
 }
 
 #map_container svg path:hover {
