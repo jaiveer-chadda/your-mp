@@ -1,4 +1,23 @@
-let data_exp = {};
+let data = {};
+
+function findWinner(fullObject) {
+    let maxName = null;
+    let maxValue = -Infinity;
+
+    for (let key in fullObject) {
+        if (key === "electionName" || key === "constituencyCode") {continue;}
+
+        const raw = fullObject[key];
+        const num = +raw;
+        if (isNaN(num)) {continue;}
+
+        if (num > maxValue) {
+            maxValue = num;
+            maxName  = key;
+        }
+    }
+    return maxName
+}
 
 fetch('../../resources/constituency_info/results_formatted.csv')
 .then(
@@ -9,7 +28,7 @@ fetch('../../resources/constituency_info/results_formatted.csv')
         const [headerLine, ...lines] = text.trim().split(/\r?\n/);
         const headers = headerLine.split(',');
 
-        const data = lines.map(line => {
+        data = lines.map(line => {
             const values = line.split(',');
             return headers.reduce((obj, header, i) => {
                 obj[header] = values[i];
@@ -17,7 +36,19 @@ fetch('../../resources/constituency_info/results_formatted.csv')
             }, {});
         });
         console.log(data)
-        data_exp = data
+
+        let formattedData = []
+
+        for (let i=0;i<data.length;i++) {
+            formattedData.push({
+                Name: data[i].Name,
+                ONS: data[i]["ONS Code"],
+                Winner: findWinner(data[i])
+            })
+        }
+
+        console.log(formattedData)
+
     }
 )
 .catch(
