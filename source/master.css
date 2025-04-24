@@ -4,6 +4,8 @@
 
     --navbar_height: 40px;
     --navbar_button_spacing: 30px;
+
+    --constituency_colour: white;
 }
 
 * {

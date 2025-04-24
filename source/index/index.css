@@ -14,15 +14,17 @@
 }
 
 #map_container svg path {
-    fill: white;
+    fill: var(--constituency_colour, white);
     stroke: black;
     stroke-width: calc(5px / 2);
 
     stroke-linejoin:round;
     stroke-miterlimit:1;
+
+    transition: filter 0.6s;
 }
 
 #map_container svg path:hover {
-    fill: gray;
-    transition: 0.6s;
+    filter: brightness(0.8);
+    transition: filter 0.6s;
 }
