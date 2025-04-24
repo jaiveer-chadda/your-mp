@@ -3,6 +3,7 @@
     --navbar_colour: #282828;
 
     --navbar_height: 40px;
+    --navbar_button_spacing: 30px;
 }
 
 * {
@@ -23,6 +24,7 @@ html, body {
 
 body {
     background-color: var(--background_colour);
+    overflow: hidden;
 }
 
 #navbar {
@@ -36,18 +38,19 @@ body {
     height: var(--navbar_height);
 
     display: flex;
+    padding-left: var(--navbar_button_spacing);
 }
 
 .navbar_button {
+    background-color: var(--navbar_colour);
+    /*background-color: red;*/
+
     height: 80%;
-    width: 80px;
-    margin: calc(var(--navbar_height) / 10) 10px;
+    margin-top: calc(var(--navbar_height) / 10);
+    margin-right: var(--navbar_button_spacing);
 
     text-decoration: none;
     color: white;
-
-    border: none;
-    background-color: var(--navbar_colour);
 }
 
 #map_container {
