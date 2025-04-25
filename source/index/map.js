@@ -1,4 +1,6 @@
 const svg = document.getElementById('map');
+const initialClientWidth  = svg.clientWidth;
+const initialClientHeight = svg.clientHeight;
 
 const defaultWidth = 3261.1809;
 const defaultHeight = 4840.668;
@@ -72,8 +74,8 @@ svg.addEventListener('mousemove', (e) => {
     const dx = e.clientX - dragStart.x;
     const dy = e.clientY - dragStart.y;
 
-    const scaleX = viewBox.width / svg.clientWidth;
-    const scaleY = viewBox.height / svg.clientHeight;
+    const scaleX = screen.width / svg.clientWidth;
+    const scaleY = screen.height / svg.clientHeight;
 
     viewBox.x -= dx * scaleX;
     viewBox.y -= dy * scaleY;
