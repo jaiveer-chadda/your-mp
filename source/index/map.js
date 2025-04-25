@@ -1,6 +1,4 @@
 const svg = document.getElementById('map');
-const initialClientWidth  = svg.clientWidth;
-const initialClientHeight = svg.clientHeight;
 
 const defaultWidth = 3261.1809;
 const defaultHeight = 4840.668;
@@ -9,7 +7,7 @@ let viewBox = { x: 0, y: 0, width: defaultWidth, height: defaultHeight };
 let scaleX = 0;
 let scaleY = 0;
 
-const zoomFactor = 1.1;
+const zoomFactor = 1.08;
 const MIN_ZOOM = 0.95;
 const MAX_ZOOM = 15;
 
