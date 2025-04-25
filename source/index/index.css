@@ -1,6 +1,7 @@
 #map_container {
-    height: calc(90vh - var(--navbar_height));
-    margin-top: calc(5vh + var(--navbar_height));
+    height: calc(100vh - var(--navbar_height));
+    margin-top: calc(var(--navbar_height));
+    width: 100%;
 
     display: flex;
     justify-content: center;
@@ -10,7 +11,7 @@
 #map_container svg {
     display: block;
     height: 100%;
-    width: auto;
+    width: 100%;
 }
 
 #map_container svg path {

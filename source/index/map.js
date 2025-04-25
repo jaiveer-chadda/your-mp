@@ -1,7 +1,10 @@
 const svg = document.getElementById('map');
-let viewBox = { x: 0, y: 0, width: 3261.1809, height: 4840.668 };
-const zoomFactor = 1.1;
 
+const defaultWidth = 3261.1809;
+const defaultHeight = 4840.668;
+let viewBox = { x: 0, y: 0, width: defaultWidth, height: defaultHeight };
+
+const zoomFactor = 1.1;
 const MIN_ZOOM = 0.95;
 const MAX_ZOOM = 15;
 
@@ -13,12 +16,12 @@ function updateViewBox() {
 }
 
 function getZoomLevel() {
-    return 3261.1809 / viewBox.width;
+    return defaultWidth / viewBox.width;
 }
 
 function clampPan() {
-    const maxX = 3261.1809 - viewBox.width;
-    const maxY = 4840.668 - viewBox.height;
+    const maxX = defaultWidth - viewBox.width;
+    const maxY = defaultHeight - viewBox.height;
 
     viewBox.x = Math.min(Math.max(0, viewBox.x), maxX);
     viewBox.y = Math.min(Math.max(0, viewBox.y), maxY);
@@ -45,11 +48,6 @@ function zoomAt(mouseX, mouseY, zoomIn = true) {
     viewBox.height = newHeight;
 
     clampPan(); // keep viewBox within bounds
-    updateViewBox();
-}
-
-function resetView() {
-    viewBox = { x: 0, y: 0, width: 3261.1809, height: 4840.668 };
     updateViewBox();
 }
 
