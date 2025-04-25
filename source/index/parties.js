@@ -71,7 +71,7 @@ fetch('../../resources/constituency_info/results_formatted.csv')
                 let constituency = document.getElementById(nameFormatted);
                 constituency.style.setProperty('--constituency_colour', partyColours[formattedData[i].Winner]);
             } catch (error) {
-                // console.log(nameFormatted)
+                console.log(nameFormatted)
                 // console.error(error);
             }
         }
