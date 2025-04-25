@@ -1,3 +1,5 @@
+import { getConstituencyData } from '../master.js';
+
 const partyColours = {
     Labour: "#e4003b",
     Liberal_Democrat: "#FAA61A",
@@ -16,69 +18,18 @@ const partyColours = {
     Ulster_Unionist_Party: "#A1CDF0"
 }
 
-let data = {};
-let formattedData = []
+const formattedData = await getConstituencyData();
 
-function findWinner(fullObject) {
-    let maxName = null;
-    let maxValue = -Infinity;
+for (let i=0;i<formattedData.length;i++) {
+    let nameFormatted = formattedData[i].Name.replace(/ /g, "_");
 
-    for (let key in fullObject) {
-        if (key === "electionName" || key === "constituencyCode") {continue;}
-
-        const raw = fullObject[key];
-        const num = +raw;
-        if (isNaN(num)) {continue;}
-
-        if (num > maxValue) {
-            maxValue = num;
-            maxName  = key;
-        }
+    try {
+        let constituency = document.getElementById(nameFormatted);
+        constituency.style.setProperty('--constituency_colour', partyColours[formattedData[i].Winner]);
+    } catch (error) {
+        // console.log(nameFormatted)
+        console.error(nameFormatted, error);
     }
-    return maxName
 }
 
-fetch('../../resources/constituency_info/results_formatted.csv')
-.then(
-    response => response.text()
-)
-.then(
-    text => {
-        const [headerLine, ...lines] = text.trim().split(/\r?\n/);
-        const headers = headerLine.split(',');
-
-        data = lines.map(line => {
-            const values = line.split(',');
-            return headers.reduce((obj, header, i) => {
-                obj[header] = values[i];
-                return obj;
-            }, {});
-        });
-        // console.log(data)
-
-        for (let i=0;i<data.length;i++) {
-            formattedData.push({
-                Name: data[i].Name,
-                ONS: data[i]["ONS Code"],
-                Winner: findWinner(data[i]).replace(/ /g, "_")
-            })
-        }
-
-        for (let i=0;i<formattedData.length;i++) {
-            let nameFormatted = formattedData[i].Name.replace(/ /g, "_");
-
-            try {
-                let constituency = document.getElementById(nameFormatted);
-                constituency.style.setProperty('--constituency_colour', partyColours[formattedData[i].Winner]);
-            } catch (error) {
-                // console.log(nameFormatted)
-                console.error(nameFormatted, error);
-            }
-        }
-
-        // console.log(formattedData)
-    }
-)
-.catch(
-    err => console.error('Error fetching CSV:', err)
-);
+console.log(formattedData)
