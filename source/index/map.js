@@ -6,6 +6,9 @@ const defaultWidth = 3261.1809;
 const defaultHeight = 4840.668;
 let viewBox = { x: 0, y: 0, width: defaultWidth, height: defaultHeight };
 
+let scaleX = 0;
+let scaleY = 0;
+
 const zoomFactor = 1.1;
 const MIN_ZOOM = 0.95;
 const MAX_ZOOM = 15;
@@ -74,8 +77,10 @@ svg.addEventListener('mousemove', (e) => {
     const dx = e.clientX - dragStart.x;
     const dy = e.clientY - dragStart.y;
 
-    const scaleX = screen.width / svg.clientWidth;
-    const scaleY = screen.height / svg.clientHeight;
+    let X = getZoomLevel()
+
+    scaleX = 8.39602*(X**-1.16553);
+    scaleY = 8.39602*(X**-1.16553);
 
     viewBox.x -= dx * scaleX;
     viewBox.y -= dy * scaleY;
@@ -88,7 +93,6 @@ svg.addEventListener('mousemove', (e) => {
     clampPan();
     updateViewBox();
 });
-
 
 svg.addEventListener('mouseup', () => {
     isDragging = false;
