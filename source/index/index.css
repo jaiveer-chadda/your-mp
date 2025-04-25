@@ -27,3 +27,29 @@
     filter: brightness(0.8);
     transition: filter 0.5s;
 }
+
+#infobox {
+    background-color: var(--navbar_colour);
+    color: #DDDDDD;
+
+    width: 22%;
+    min-width: 185px;
+    height: auto;
+    min-height: 90px;
+
+    position: absolute;
+    right: 5%;
+    top: calc(var(--navbar_height) * 2);
+
+    border: 2px solid #696969;
+    border-radius: 10px;
+}
+
+@media only screen and (max-width: 885px) {
+    #infobox { background-color: green; }
+}
+
+#infobox_title {
+    margin: 15px;
+    font-size: 25px;
+}

@@ -45,7 +45,6 @@ body {
 
 .navbar_button {
     background-color: var(--navbar_colour);
-    /*background-color: red;*/
 
     height: 80%;
     margin-top: calc(var(--navbar_height) / 10);
