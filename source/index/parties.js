@@ -54,7 +54,7 @@ fetch('../../resources/constituency_info/results_formatted.csv')
                 return obj;
             }, {});
         });
-        console.log(data)
+        // console.log(data)
 
         for (let i=0;i<data.length;i++) {
             formattedData.push({
@@ -71,12 +71,12 @@ fetch('../../resources/constituency_info/results_formatted.csv')
                 let constituency = document.getElementById(nameFormatted);
                 constituency.style.setProperty('--constituency_colour', partyColours[formattedData[i].Winner]);
             } catch (error) {
-                console.log(nameFormatted)
-                // console.error(error);
+                // console.log(nameFormatted)
+                console.error(nameFormatted, error);
             }
         }
 
-        console.log(formattedData)
+        // console.log(formattedData)
     }
 )
 .catch(
