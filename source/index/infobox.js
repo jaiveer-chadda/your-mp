@@ -1,4 +1,4 @@
-import { getConstituencyData } from '../master.js';
+// import { getConstituencyData } from '../master.js';
 
 const paths = document.querySelectorAll('#map_container svg path');
 const display = document.getElementById('infobox_title');
@@ -14,7 +14,7 @@ paths.forEach(path => {
         display.style.fontWeight = 'normal';
     });
 
-    path.addEventListener('click', evt => {
+    path.addEventListener('click', () => {
         info.innerHTML = '';
 
     });
