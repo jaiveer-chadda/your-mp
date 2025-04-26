@@ -32,7 +32,7 @@ paths.forEach(path => {
 });
 
 document.addEventListener('click', (evt) => {
-    if (!evt.target.matches('#map_container svg path')) {
+    if (!(evt.target.matches('#map_container svg path, #infobox, #infobox *'))) {
         infoLocked = false;
 
         infoboxTitle.textContent = 'Hover over a constituency';
