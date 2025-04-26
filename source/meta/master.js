@@ -1,23 +1,23 @@
-export function getConstituencyData() {
-    function findWinner(fullObject) {
-        let maxName = null;
-        let maxValue = -Infinity;
+function findWinner(fullObject) {
+    let maxName = null;
+    let maxValue = -Infinity;
 
-        for (let key in fullObject) {
-            if (key === "electionName" || key === "constituencyCode") {continue;}
+    for (let key in fullObject) {
+        if (key === "electionName" || key === "constituencyCode") {continue;}
 
-            const raw = fullObject[key];
-            const num = +raw;
-            if (isNaN(num)) {continue;}
+        const raw = fullObject[key];
+        const num = +raw;
+        if (isNaN(num)) {continue;}
 
-            if (num > maxValue) {
-                maxValue = num;
-                maxName  = key;
-            }
+        if (num > maxValue) {
+            maxValue = num;
+            maxName  = key;
         }
-        return maxName
     }
+    return maxName
+}
 
+export function getConstituencyData() {
     return fetch('../../resources/constituency_info/results_formatted.csv')
     .then(
         response => response.text()
