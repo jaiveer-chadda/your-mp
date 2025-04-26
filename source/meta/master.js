@@ -17,7 +17,7 @@ function findWinner(fullObject) {
     return maxName
 }
 
-export function getConstituencyData() {
+export function getConstituencyWinners() {
     return fetch('../../resources/constituency_info/results_formatted.csv')
     .then(
         response => response.text()

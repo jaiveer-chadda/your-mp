@@ -1,4 +1,4 @@
-import { getConstituencyData } from './master.js';
+import { getConstituencyWinners } from './master.js';
 
 const partyColours = {
     Labour: "#e4003b",
@@ -18,7 +18,7 @@ const partyColours = {
     Ulster_Unionist_Party: "#A1CDF0"
 }
 
-const formattedData = await getConstituencyData();
+const formattedData = await getConstituencyWinners();
 
 for (let i=0;i<formattedData.length;i++) {
     let nameFormatted = formattedData[i].Name.replace(/ /g, "_");

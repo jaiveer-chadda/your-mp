@@ -1,5 +1,5 @@
-// import { getConstituencyData } from '../../meta/master.js';
-// const formattedData = await getConstituencyData();
+// import { getConstituencyWinners } from '../../meta/master.js';
+// const formattedData = await getConstituencyWinners();
 
 const paths = document.querySelectorAll('#map_container svg path');
 const infoboxTitle = document.getElementById('infobox_title');
