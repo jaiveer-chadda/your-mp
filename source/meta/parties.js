@@ -21,10 +21,10 @@ const partyColours = {
 const formattedData = await getConstituencyWinners();
 
 for (let i=0;i<formattedData.length;i++) {
-    const nameFormatted = formattedData[i].Name
+    const nameFormatted = addUS(formattedData[i].Name);
 
     try {
-        let constituency = addUS(document.getElementById(nameFormatted));
+        let constituency = document.getElementById(nameFormatted);
         constituency.style.setProperty('--constituency_colour', partyColours[formattedData[i].Winner]);
     } catch (error) {
         // console.log(nameFormatted)
