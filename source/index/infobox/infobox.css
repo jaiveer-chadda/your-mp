@@ -22,7 +22,7 @@
 #infobox_title {
     margin: 15px;
     font-size: 25px;
-    font-weight: normal;
+    font-weight: bold;
 }
 
 #infobox p:empty, #infobox img:empty {

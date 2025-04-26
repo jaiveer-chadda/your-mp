@@ -10,19 +10,20 @@ paths.forEach(path => {
     path.addEventListener('mouseenter', evt => {
         if (infoLocked) { return; }
         infoboxTitle.textContent = evt.target.id.replace(/_/g, " ");
-        infoboxTitle.style.fontWeight = 'bold';
     });
     path.addEventListener('mouseleave', () => {
         if (infoLocked) { return; }
         infoboxTitle.textContent = 'Hover over a constituency';
-        infoboxTitle.style.fontWeight = 'normal';
     });
 
     path.addEventListener('click', evt => {
         let constituencyName = evt.target.id.replace(/_/g, " ");
         infoLocked = true;
-        document.querySelector("#infobox_title").textContent   = constituencyName;
-        document.querySelector("#infobox_country").textContent = 'England';
+        document.querySelector("#infobox_title").textContent    = constituencyName;
+        document.querySelector("#infobox_country").textContent  = 'country';
+        document.querySelector("#infobox_region").textContent   = 'region';
+        document.querySelector("#infobox_mp_name").textContent  = 'mp name';
+        document.querySelector("#infobox_mp_party").textContent = 'party';
     });
 });
 
@@ -31,7 +32,6 @@ document.addEventListener('click', (evt) => {
         infoLocked = false;
 
         infoboxTitle.textContent = 'Hover over a constituency';
-        infoboxTitle.style.fontWeight = 'normal';
 
         document.querySelectorAll("#infobox p:not(#infobox_title)").forEach(p => {
             p.textContent = '';
