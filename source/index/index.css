@@ -46,10 +46,15 @@
 }
 
 @media only screen and (max-width: 885px) {
-    #infobox { background-color: green; }
+    #infobox { background-color: green; } /* this is a placeholder */
 }
 
 #infobox_title {
     margin: 15px;
     font-size: 25px;
+    font-weight: normal;
+}
+
+#infobox p:empty, #infobox img:empty {
+    display: none;
 }
