@@ -19,11 +19,12 @@ paths.forEach(path => {
     path.addEventListener('click', evt => {
         let constituencyName = evt.target.id.replace(/_/g, " ");
         infoLocked = true;
-        document.querySelector("#infobox_title").textContent    = constituencyName;
-        document.querySelector("#infobox_country").textContent  = 'country';
-        document.querySelector("#infobox_region").textContent   = 'region';
-        document.querySelector("#infobox_mp_name").textContent  = 'mp name';
-        document.querySelector("#infobox_mp_party").textContent = 'party';
+        document.querySelector("#infobox_title").textContent        = constituencyName;
+        document.querySelector("#infobox_country").textContent      = 'country';
+        document.querySelector("#infobox_region").textContent       = 'region';
+        document.querySelector("#infobox_mp_name").textContent      = 'mp name';
+        document.querySelector("#infobox_mp_party").textContent     = 'party';
+        document.querySelector("#infobox_mp_tenure").textContent    = 'tenure';
     });
 });
 

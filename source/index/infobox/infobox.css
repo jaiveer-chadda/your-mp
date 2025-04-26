@@ -15,8 +15,10 @@
     border-radius: 10px;
 }
 
-@media only screen and (max-width: 885px) {
-    #infobox { background-color: green; } /* this is a placeholder */
+@media only screen and (max-width: 1150px) {
+    #infobox {
+        display: none; /* this is a placeholder */
+    }
 }
 
 #infobox_title {
@@ -27,4 +29,12 @@
 
 #infobox p:empty, #infobox img:empty {
     display: none;
+}
+
+#infobox p:not(:first-child) {
+    margin: 5px 15px;
+}
+
+#infobox p:last-child {
+    margin-bottom: 15px;
 }
