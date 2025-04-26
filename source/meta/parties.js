@@ -1,4 +1,4 @@
-import { getConstituencyData } from '../master.js';
+import { getConstituencyData } from './master.js';
 
 const partyColours = {
     Labour: "#e4003b",
