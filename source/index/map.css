@@ -1,0 +1,29 @@
+#map_container {
+    height: calc(100vh - var(--navbar_height));
+    margin-top: calc(var(--navbar_height));
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#map_container svg {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+#map_container svg path {
+    fill: var(--constituency_colour, white);
+    stroke: black;
+    stroke-width: calc(5px / 2);
+
+    stroke-linejoin:round;
+    stroke-miterlimit:1;
+}
+
+#map_container svg path:hover {
+    filter: brightness(0.6);
+    transition: filter 0.5s;
+}
