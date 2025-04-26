@@ -32,4 +32,4 @@ for (let i=0;i<formattedData.length;i++) {
     }
 }
 
-console.log(formattedData)
+// console.log(formattedData)
