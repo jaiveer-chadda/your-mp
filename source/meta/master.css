@@ -1,6 +1,8 @@
 :root {
     --background_colour: #181A1B;
-    --navbar_colour: #282828;
+    --secondary_colour: #282828;
+    --highlight_colour: #696969;
+    --text_colour: #DDDDDD;
 
     --navbar_height: 40px;
     --navbar_button_spacing: 30px;
@@ -30,7 +32,7 @@ body {
 }
 
 #navbar {
-    background-color: var(--navbar_colour);
+    background-color: var(--secondary_colour);
 
     position: absolute;
     top: 0;
@@ -44,12 +46,12 @@ body {
 }
 
 .navbar_button {
-    background-color: var(--navbar_colour);
+    background-color: var(--secondary_colour);
 
     height: 80%;
     margin-top: calc(var(--navbar_height) / 10);
     margin-right: var(--navbar_button_spacing);
 
     text-decoration: none;
-    color: white;
+    color: var(--text_colour);
 }

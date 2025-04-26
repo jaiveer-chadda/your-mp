@@ -1,6 +1,6 @@
 #infobox {
-    background-color: var(--navbar_colour);
-    color: #DDDDDD;
+    background-color: var(--secondary_colour);
+    color: var(--text_colour);
 
     width: 22%;
     min-width: 185px;
@@ -10,7 +10,7 @@
     right: 5%;
     top: calc(var(--navbar_height) * 2);
 
-    border: 2px solid #696969;
+    border: 2px solid var(--highlight_colour);
     border-radius: 10px;
 }
 
