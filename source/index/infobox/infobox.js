@@ -23,11 +23,11 @@ paths.forEach(path => {
         const constituencyWinnerData = constituencyWinners.find(cons => cons.Name === remUS(evt.target.id));
 
         document.querySelector("#infobox_title").textContent        = remUS(evt.target.id);
-        document.querySelector("#infobox_country").textContent      = 'country';
-        document.querySelector("#infobox_region").textContent       = 'region';
-        document.querySelector("#infobox_mp_name").textContent      = 'mp name';
+        document.querySelector("#infobox_country").textContent      = '--country--';
+        document.querySelector("#infobox_region").textContent       = '--region--';
+        document.querySelector("#infobox_mp_name").textContent      = '--mp name--';
         document.querySelector("#infobox_mp_party").textContent     = remUS(constituencyWinnerData.Winner);
-        document.querySelector("#infobox_mp_tenure").textContent    = 'tenure';
+        document.querySelector("#infobox_mp_tenure").textContent    = '--tenure--';
     });
 });
 
