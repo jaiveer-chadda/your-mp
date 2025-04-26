@@ -5,7 +5,6 @@
     width: 22%;
     min-width: 185px;
     height: auto;
-    min-height: 90px;
 
     position: absolute;
     right: 5%;
@@ -23,8 +22,13 @@
 
 #infobox_title {
     margin: 15px;
+    min-height: 60px;
+
     font-size: 25px;
     font-weight: bold;
+
+    display: flex;
+    align-items: center;
 }
 
 #infobox p:empty, #infobox img:empty {
