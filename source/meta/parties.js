@@ -1,4 +1,4 @@
-import { getConstituencyWinners } from './master.js';
+import { getConstituencyWinners, addUS } from './master.js';
 
 const partyColours = {
     Labour: "#e4003b",
@@ -21,10 +21,10 @@ const partyColours = {
 const formattedData = await getConstituencyWinners();
 
 for (let i=0;i<formattedData.length;i++) {
-    let nameFormatted = formattedData[i].Name.replace(/ /g, "_");
+    const nameFormatted = formattedData[i].Name
 
     try {
-        let constituency = document.getElementById(nameFormatted);
+        let constituency = addUS(document.getElementById(nameFormatted));
         constituency.style.setProperty('--constituency_colour', partyColours[formattedData[i].Winner]);
     } catch (error) {
         // console.log(nameFormatted)

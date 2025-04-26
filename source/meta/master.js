@@ -1,3 +1,6 @@
+export function addUS(text) { return text.replace(/ /g, "_"); }
+export function remUS(text) { return text.replace(/_/g, " "); }
+
 function findWinner(fullObject) {
     let maxName = null;
     let maxValue = -Infinity;
