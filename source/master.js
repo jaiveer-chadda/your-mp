@@ -44,6 +44,7 @@ export function getConstituencyData() {
                     Winner: findWinner(data[i]).replace(/ /g, '_')
                 })
             }
+            console.log(formattedData)
             return formattedData
         }
     )
