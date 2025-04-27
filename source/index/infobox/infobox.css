@@ -31,7 +31,8 @@
     align-items: center;
 }
 
-#infobox p:empty, #infobox img:empty {
+#infobox p:empty,
+#infobox img:empty {
     display: none;
 }
 
