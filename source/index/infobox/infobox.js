@@ -1,7 +1,7 @@
 import { getConstituencyWinners, remUS } from '../../meta/master.js';
 
 const constituencyWinners = await getConstituencyWinners();
-console.log(constituencyWinners)
+// console.log(constituencyWinners)
 
 const paths = document.querySelectorAll('#map_container svg path');
 const infoboxTitle = document.getElementById('infobox_title');
@@ -20,13 +20,13 @@ paths.forEach(path => {
 
     path.addEventListener('click', evt => {
         infoLocked = true;
-        const constituencyWinnerData = constituencyWinners.find(cons => cons.Name === remUS(evt.target.id));
+        const constituencyWinnerData = constituencyWinners.find(cons => cons.name === remUS(evt.target.id));
 
         document.querySelector("#infobox_title").textContent        = remUS(evt.target.id);
         document.querySelector("#infobox_country").textContent      = '--country--';
         document.querySelector("#infobox_region").textContent       = '--region--';
         document.querySelector("#infobox_mp_name").textContent      = '--mp name--';
-        document.querySelector("#infobox_mp_party").textContent     = remUS(constituencyWinnerData.Winner);
+        document.querySelector("#infobox_mp_party").textContent     = remUS(constituencyWinnerData.winner_2024);
         document.querySelector("#infobox_mp_tenure").textContent    = '--tenure--';
     });
 });

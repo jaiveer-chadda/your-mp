@@ -21,27 +21,8 @@ export function getPartyColours() {
     }
 }
 
-function findWinner(fullObject) {
-    let maxName = null;
-    let maxValue = -Infinity;
-
-    for (let key in fullObject) {
-        if (key === "electionName" || key === "constituencyCode") {continue;}
-
-        const raw = fullObject[key];
-        const num = +raw;
-        if (isNaN(num)) {continue;}
-
-        if (num > maxValue) {
-            maxValue = num;
-            maxName  = key;
-        }
-    }
-    return maxName
-}
-
 export function getConstituencyWinners() {
-    return fetch('../../resources/constituency_info/results_formatted.csv')
+    return fetch('../../resources/constituency_info/constituency_winners.csv')
     .then(
         response => response.text()
     )
@@ -62,9 +43,19 @@ export function getConstituencyWinners() {
 
             for (let i = 0; i < data.length; i++) {
                 formattedData.push({
-                    Name: data[i].Name,
-                    ONS: data[i]['ONS Code'],
-                    Winner: findWinner(data[i]).replace(/ /g, '_')
+                    name: data[i].name,
+                    ONS_code: data[i].ONS_code,
+                    county: data[i].county,
+                    region: data[i].region,
+                    country: data[i].country,
+                    winner_2019: addUS(data[i].winner_2019),
+                    winner_2024: addUS(data[i].winner_2024),
+                    MP_name: data[i].MP_name,
+                    winner_votes: data[i].winner_votes,
+                    percentage_of_total_votes: data[i].percentage_of_total_votes,
+                    margin_of_total_votes: data[i].margin_of_total_votes,
+                    total_votes: data[i].total_votes,
+                    turnout: data[i].turnout
                 })
             }
             // console.log(formattedData)

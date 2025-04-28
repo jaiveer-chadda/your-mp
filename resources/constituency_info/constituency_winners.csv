@@ -63,7 +63,7 @@ Brent West,E14001123,London,London,England,Labour,Labour,Barry Gardiner,17258,0.
 Brentford and Isleworth,E14001124,London,London,England,Labour,Labour,Ruth Cadbury,20007,0.442,0.217,20007,10183,3940,3863,4029,0,0,0,0,0,0,0,0,0,3232,45254,0.581
 Brentwood and Ongar,E14001125,Essex,East England,England,Conservative,Conservative,Alex Burghart,17731,0.367,0.124,11082,17731,11751,5809,1770,0,0,0,0,0,0,0,0,0,189,48332,0.652
 Bridgwater,E14001126,Somerset,South West,England,Conservative,Conservative,Ashley Fox,12281,0.306,0.0336,10932,12281,8913,5781,1720,0,0,0,0,0,0,0,0,0,502,40129,0.561
-Bridlington and The Wolds,E14001127,Humberside,Yorkshire and the Humber,England,Conservative,Conservative,Charlie Dewhirst,14846,0.346,0.0725,11721,14846,10350,3097,1595,0,0,0,0,0,0,0,0,0,1328,43077,0.589
+Bridlington and the Wolds,E14001127,Humberside,Yorkshire and the Humber,England,Conservative,Conservative,Charlie Dewhirst,14846,0.346,0.0725,11721,14846,10350,3097,1595,0,0,0,0,0,0,0,0,0,1328,43077,0.589
 Brigg and Immingham,E14001128,Humberside,Yorkshire and the Humber,England,Conservative,Conservative,Martin Vickers,15905,0.374,0.0763,12662,15905,10594,1442,1905,0,0,0,0,0,0,0,0,0,0,42508,0.638
 Brighton Kemptown and Peacehaven,E14001129,East Sussex,South East,England,Labour,Labour,Chris Ward,17893,0.44,0.238,17893,8230,0,3949,7997,0,0,0,0,0,0,0,0,0,2617,40686,0.592
 Brighton Pavilion,E14001130,East Sussex,South East,England,Green,Green,Si�n Berry,28809,0.55,0.273,14519,3975,2836,1604,28809,0,0,0,0,0,0,0,0,0,620,52363,0.7
@@ -423,7 +423,7 @@ South Derbyshire,E14001483,Derbyshire,East Midlands,England,Conservative,Labour,
 South Devon,E14001484,Devon,South West,England,Conservative,Liberal Democrat,Caroline Voaden,22540,0.46,0.145,3066,15413,6363,22540,1497,0,0,0,0,0,0,0,0,0,125,49004,0.693
 South Dorset,E14001485,Dorset,South West,England,Conservative,Labour,Lloyd Hatton,15659,0.319,0.0214,15659,14611,8168,8017,2153,0,0,0,0,0,0,0,0,0,429,49037,0.646
 South East Cornwall,E14001486,Cornwall,South West,England,Conservative,Labour,Anna Gelderd,15670,0.318,0.0388,15670,13759,9311,8284,1999,0,0,0,0,0,0,0,0,0,263,49286,0.678
-South Holland and The Deepings,E14001487,Lincolnshire,East Midlands,England,Conservative,Conservative,John Hayes,17462,0.38,0.149,9086,17462,10606,1945,1800,0,0,0,0,0,0,0,0,0,5031,45930,0.604
+South Holland and the Deepings,E14001487,Lincolnshire,East Midlands,England,Conservative,Conservative,John Hayes,17462,0.38,0.149,9086,17462,10606,1945,1800,0,0,0,0,0,0,0,0,0,5031,45930,0.604
 South Leicestershire,E14001488,Leicestershire,East Midlands,England,Conservative,Conservative,Alberto Costa,18264,0.356,0.107,12758,18264,10235,7621,2481,0,0,0,0,0,0,0,0,0,0,51359,0.654
 South Norfolk,E14001489,Norfolk,East England,England,Conservative,Labour,Ben Goldsborough,17353,0.35,0.057,17353,14527,7583,5746,3987,0,0,0,0,0,0,0,0,0,383,49579,0.669
 South Northamptonshire,E14001490,Northamptonshire,East Midlands,England,Conservative,Conservative,Sarah Bool,19191,0.357,0.0687,15504,19191,8962,4989,3040,0,0,0,0,0,0,0,0,0,2011,53697,0.686
@@ -620,7 +620,7 @@ Llanelli,W07000098,,,Wales,Labour,Labour,Nia Griffith,12751,0.313,1504,12751,427
 Merthyr Tydfil and Aberdare,W07000099,,,Wales,Labour,Labour,Gerald Jones,15791,0.448,7447,15791,2687,8344,1276,1231,0,4768,0,0,0,0,0,0,0,1118,35215,0.473
 Mid and South Pembrokeshire,W07000100,,,Wales,Conservative,Labour,Henry Tufnell,16505,0.354,1878,16505,14627,7828,2372,1654,0,2962,0,0,0,0,0,0,0,681,46629,0.592
 Monmouthshire,W07000101,,,Wales,Conservative,Labour,Catherine Fookes,21010,0.413,3338,21010,17672,5438,2279,2357,0,1273,0,0,0,0,0,0,0,815,50844,0.68
-Montgomeryshire and Glynd_r,W07000102,,,Wales,Conservative,Labour,Steve Witherden,12709,0.294,3815,12709,7775,8894,6470,1744,0,5667,0,0,0,0,0,0,0,0,43259,0.584
+Montgomeryshire and Glyndwr,W07000102,,,Wales,Conservative,Labour,Steve Witherden,12709,0.294,3815,12709,7775,8894,6470,1744,0,5667,0,0,0,0,0,0,0,0,43259,0.584
 Neath and Swansea East,W07000103,,,Wales,Labour,Labour,Carolyn Harris,16797,0.418,6627,16797,3765,10170,2344,1711,0,5350,0,0,0,0,0,0,0,0,40137,0.525
 Newport East,W07000104,,,Wales,Labour,Labour,Jessica Morden,16370,0.425,9009,16370,6487,7361,2045,2092,0,2239,0,0,0,0,0,0,0,1937,38531,0.5
 Newport West and Islwyn,W07000105,,,Wales,Labour,Labour,Ruth Jones,17409,0.415,8868,17409,6710,8541,2087,2078,0,3529,0,0,0,0,0,0,0,1597,41951,0.554
