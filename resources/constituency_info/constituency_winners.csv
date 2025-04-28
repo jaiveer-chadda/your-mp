@@ -13,14 +13,14 @@ Barking,E14001073,London,London,England,Labour,Labour,Nesil Caliskan,16227,0.445
 Barnsley North,E14001074,South Yorkshire,Yorkshire and the Humber,England,Labour,Labour,Dan Jarvis,18610,0.504,0.211,18610,3083,10799,1336,1805,0,0,0,0,0,0,0,0,0,1261,37026,0.473
 Barnsley South,E14001075,South Yorkshire,Yorkshire and the Humber,England,Labour,Labour,Stephanie Peacock,16399,0.467,0.135,16399,3247,11651,1172,1521,0,0,0,0,0,0,0,0,0,1092,35109,0.463
 Barrow and Furness,E14001076,Cumbria,North West,England,Conservative,Labour,Michelle Scrogham,18537,0.439,0.126,18537,13213,7035,1680,1466,0,0,0,0,0,0,0,0,0,290,42221,0.563
-Basildon and Billericay,E14001077,Essex,East England,England,Conservative,Conservative,Richard Holden,12905,0.306,0.000475,12885,12905,11354,2292,2123,0,0,0,0,0,0,0,0,0,565,42124,0.554
+Basildon and Billericay,E14001077,Essex,East,England,Conservative,Conservative,Richard Holden,12905,0.306,0.000475,12885,12905,11354,2292,2123,0,0,0,0,0,0,0,0,0,565,42124,0.554
 Basingstoke,E14001078,Hampstead,South East,England,Conservative,Labour,Luke Murphy,20922,0.427,0.132,20922,14438,6314,3176,3568,0,0,0,0,0,0,0,0,0,571,48989,0.645
 Bassetlaw,E14001079,Nottinghamshire,East Midlands,England,Conservative,Labour,Jo White,18476,0.412,0.129,18476,12708,9751,1996,1947,0,0,0,0,0,0,0,0,0,0,44878,0.574
 Bath,E14001080,Avon,South West,England,Liberal Democrat,Liberal Democrat,Wera Hobhouse,19883,0.413,0.233,8665,7659,3798,19883,5952,0,0,0,0,0,0,0,0,0,2173,48130,0.691
 Battersea,E14001081,London,London,England,Labour,Labour,Marsha de Cordova,22983,0.488,0.256,22983,10944,2825,4826,4239,0,0,0,0,0,0,0,0,0,1265,47082,0.647
 Beaconsfield,E14001082,Buckinghamshire,South East,England,Conservative,Conservative,Joy Morrissey,18494,0.388,0.114,7216,18494,6055,13039,1977,0,0,0,0,0,0,0,0,0,945,47726,0.656
 Beckenham and Penge,E14001083,London,London,England,Labour,Labour,Liam Conlon,25753,0.493,0.247,25753,12848,5355,4436,3830,0,0,0,0,0,0,0,0,0,0,52207,0.695
-Bedford,E14001084,Bedfordshire,East England,England,Labour,Labour,Mohammad Yasin,18342,0.451,0.231,18342,8912,4548,4025,2394,0,0,0,0,0,0,0,0,0,2438,40869,0.564
+Bedford,E14001084,Bedfordshire,East,England,Labour,Labour,Mohammad Yasin,18342,0.451,0.231,18342,8912,4548,4025,2394,0,0,0,0,0,0,0,0,0,2438,40869,0.564
 Bermondsey and Old Southwark,E14001085,London,London,England,Labour,Labour,Neil Coyle,16857,0.448,0.207,16857,2879,3397,9070,4477,0,0,0,0,0,0,0,0,0,923,37603,0.541
 Bethnal Green and Stepney,E14001086,London,London,England,Labour,Labour,Rushanara Ali,15896,0.341,0.0362,15896,1920,1964,4777,6391,0,0,0,0,0,0,0,0,0,15699,46647,0.57
 Beverley and Holderness,E14001087,Humberside,Yorkshire and the Humber,England,Conservative,Conservative,Graham Stuart,15501,0.345,0.00276,15377,15501,8198,3386,1647,0,0,0,0,0,0,0,0,0,788,44897,0.636
@@ -57,11 +57,11 @@ Bracknell,E14001117,Berkshire,South East,England,Conservative,Labour,Peter Swall
 Bradford East,E14001118,West Yorkshire,Yorkshire and the Humber,England,Labour,Labour,Imran Hussain,14098,0.379,0.167,14098,3450,4952,1910,2571,0,0,0,0,0,0,0,0,0,10235,37151,0.495
 Bradford South,E14001119,West Yorkshire,Yorkshire and the Humber,England,Labour,Labour,Judith Cummins,11833,0.358,0.133,11833,4853,7441,954,3366,0,0,0,0,0,0,0,0,0,4595,33042,0.465
 Bradford West,E14001120,West Yorkshire,Yorkshire and the Humber,England,Labour,Labour,Naz Shah,11724,0.316,0.0191,11724,3055,2958,756,3690,0,0,0,0,0,0,0,0,0,14898,37081,0.476
-Braintree,E14001121,Essex,East England,England,Conservative,Conservative,James Cleverly,17414,0.355,0.0749,13744,17414,11346,2879,2878,0,0,0,0,0,0,0,0,0,767,49028,0.63
+Braintree,E14001121,Essex,East,England,Conservative,Conservative,James Cleverly,17414,0.355,0.0749,13744,17414,11346,2879,2878,0,0,0,0,0,0,0,0,0,767,49028,0.63
 Brent East,E14001122,London,London,England,Labour,Labour,Dawn Butler,19370,0.512,0.345,19370,6323,2024,2635,3729,0,0,0,0,0,0,0,0,0,3721,37802,0.489
 Brent West,E14001123,London,London,England,Labour,Labour,Barry Gardiner,17258,0.417,0.0917,17258,13465,2061,3013,2805,0,0,0,0,0,0,0,0,0,2774,41376,0.518
 Brentford and Isleworth,E14001124,London,London,England,Labour,Labour,Ruth Cadbury,20007,0.442,0.217,20007,10183,3940,3863,4029,0,0,0,0,0,0,0,0,0,3232,45254,0.581
-Brentwood and Ongar,E14001125,Essex,East England,England,Conservative,Conservative,Alex Burghart,17731,0.367,0.124,11082,17731,11751,5809,1770,0,0,0,0,0,0,0,0,0,189,48332,0.652
+Brentwood and Ongar,E14001125,Essex,East,England,Conservative,Conservative,Alex Burghart,17731,0.367,0.124,11082,17731,11751,5809,1770,0,0,0,0,0,0,0,0,0,189,48332,0.652
 Bridgwater,E14001126,Somerset,South West,England,Conservative,Conservative,Ashley Fox,12281,0.306,0.0336,10932,12281,8913,5781,1720,0,0,0,0,0,0,0,0,0,502,40129,0.561
 Bridlington and the Wolds,E14001127,Humberside,Yorkshire and the Humber,England,Conservative,Conservative,Charlie Dewhirst,14846,0.346,0.0725,11721,14846,10350,3097,1595,0,0,0,0,0,0,0,0,0,1328,43077,0.589
 Brigg and Immingham,E14001128,Humberside,Yorkshire and the Humber,England,Conservative,Conservative,Martin Vickers,15905,0.374,0.0763,12662,15905,10594,1442,1905,0,0,0,0,0,0,0,0,0,0,42508,0.638
@@ -72,30 +72,30 @@ Bristol East,E14001132,Avon,South West,England,Labour,Labour,Kerry McCarthy,2074
 Bristol North East,E14001133,Avon,South West,England,Labour,Labour,Damien Egan,19004,0.453,0.266,19004,6216,5418,1964,7837,0,0,0,0,0,0,0,0,0,1550,41989,0.599
 Bristol North West,E14001134,Avon,South West,England,Labour,Labour,Darren Jones,24058,0.496,0.323,24058,6773,4863,4159,8389,0,0,0,0,0,0,0,0,0,222,48464,0.647
 Bristol South,E14001135,Avon,South West,England,Labour,Labour,Karin Smyth,18521,0.427,0.177,18521,4947,6195,2721,10855,0,0,0,0,0,0,0,0,0,164,43403,0.575
-Broadland and Fakenham,E14001136,Norfolk,East England,England,Conservative,Conservative,Jerome Mayhew,16322,0.33,0.0145,15603,16322,8859,5526,3203,0,0,0,0,0,0,0,0,0,0,49513,0.654
+Broadland and Fakenham,E14001136,Norfolk,East,England,Conservative,Conservative,Jerome Mayhew,16322,0.33,0.0145,15603,16322,8859,5526,3203,0,0,0,0,0,0,0,0,0,0,49513,0.654
 Bromley and Biggin Hill,E14001137,London,London,England,Conservative,Conservative,Peter Fortune,15929,0.34,0.00645,15627,15929,8203,4352,2583,0,0,0,0,0,0,0,0,0,94,46788,0.676
 Bromsgrove,E14001138,Worcestershire,West Midlands,England,Conservative,Conservative,Bradley Thomas,16533,0.328,0.0598,13517,16533,9584,7391,1675,0,0,0,0,0,0,0,0,0,1705,50405,0.671
-Broxbourne,E14001139,Hertfordshire,East England,England,Conservative,Conservative,Lewis Cocking,15810,0.368,0.0665,12952,15810,8782,2688,2461,0,0,0,0,0,0,0,0,0,259,42952,0.571
+Broxbourne,E14001139,Hertfordshire,East,England,Conservative,Conservative,Lewis Cocking,15810,0.368,0.0665,12952,15810,8782,2688,2461,0,0,0,0,0,0,0,0,0,259,42952,0.571
 Broxtowe,E14001140,Nottinghamshire,East Midlands,England,Conservative,Labour,Juliet Campbell,19561,0.409,0.176,19561,11158,8402,3807,3488,0,0,0,0,0,0,0,0,0,1422,47838,0.665
 Buckingham and Bletchley,E14001141,Buckinghamshire,South East,England,Conservative,Labour,Callum Anderson,17602,0.369,0.0506,17602,15181,7468,4300,2590,0,0,0,0,0,0,0,0,0,500,47847,0.637
 Burnley,E14001142,Lancashire,North West,England,Conservative,Labour,Oliver Ryan,12598,0.317,0.0861,12598,8058,7755,9178,1518,0,0,0,0,0,0,0,0,0,612,39719,0.53
 Burton and Uttoxeter,E14001143,Staffordshire,West Midlands,England,Conservative,Labour,Jacob Collier,16222,0.356,0.0497,16222,13956,9611,1663,2119,0,0,0,0,0,0,0,0,0,2056,45627,0.608
 Bury North,E14001144,Greater Manchester,North West,England,Conservative,Labour,James Frith,19625,0.431,0.153,19625,12681,7385,1317,1747,0,0,0,0,0,0,0,0,0,2765,45520,0.585
 Bury South,E14001145,Greater Manchester,North West,England,Conservative,Labour,Christian Wakeford,19247,0.456,0.222,19247,9886,6865,1796,2715,0,0,0,0,0,0,0,0,0,1705,42214,0.56
-Bury St Edmunds and Stowmarket,E14001146,Suffolk,East England,England,Conservative,Labour,Peter Prinsley,16745,0.329,0.0285,16745,15293,8595,3154,5761,0,0,0,0,0,0,0,0,0,1345,50893,0.656
+Bury St Edmunds and Stowmarket,E14001146,Suffolk,East,England,Conservative,Labour,Peter Prinsley,16745,0.329,0.0285,16745,15293,8595,3154,5761,0,0,0,0,0,0,0,0,0,1345,50893,0.656
 Calder Valley,E14001147,South Yorkshire,Yorkshire and the Humber,England,Conservative,Labour,Josh Fenton-Glynn,22046,0.444,0.181,22046,13055,7644,2587,3701,0,0,0,0,0,0,0,0,0,575,49796,0.641
 Camborne and Redruth,E14001148,Cornwall,South West,England,Conservative,Labour,Perran Moon,19360,0.405,0.163,19360,11554,8952,4113,2840,0,0,0,0,0,0,0,0,0,966,47785,0.642
-Cambridge,E14001149,Cambridgeshire,East England,England,Labour,Labour,Daniel Zeichner,19614,0.466,0.263,19614,5073,0,8536,6842,0,0,0,0,0,0,0,0,0,2035,42100,0.604
+Cambridge,E14001149,Cambridgeshire,East,England,Labour,Labour,Daniel Zeichner,19614,0.466,0.263,19614,5073,0,8536,6842,0,0,0,0,0,0,0,0,0,2035,42100,0.604
 Cannock Chase,E14001150,Staffordshire,West Midlands,England,Conservative,Labour,Josh Newbury,15671,0.365,0.0728,15671,12546,11570,1029,2137,0,0,0,0,0,0,0,0,0,0,42953,0.558
 Canterbury,E14001151,Kent,South East,England,Labour,Labour,Rosie Duffield,19531,0.414,0.183,19531,10878,6805,3812,5920,0,0,0,0,0,0,0,0,0,285,47231,0.664
 Carlisle,E14001152,Cumbria,North West,England,Conservative,Labour,Julie Minns,18129,0.394,0.113,18129,12929,9295,2982,1922,0,0,0,0,0,0,0,0,0,722,45979,0.591
 Carshalton and Wallington,E14001153,London,London,England,Conservative,Liberal Democrat,Bobby Dean,20126,0.431,0.169,6108,12221,5941,20126,1517,0,0,0,0,0,0,0,0,0,757,46670,0.64
-Castle Point,E14001154,Essex,East England,England,Conservative,Conservative,Rebecca Harris,15485,0.381,0.08,9455,15485,12234,1341,2118,0,0,0,0,0,0,0,0,0,0,40633,0.576
+Castle Point,E14001154,Essex,East,England,Conservative,Conservative,Rebecca Harris,15485,0.381,0.08,9455,15485,12234,1341,2118,0,0,0,0,0,0,0,0,0,0,40633,0.576
 Central Devon,E14001155,Devon,South West,England,Conservative,Conservative,Mel Stride,16831,0.315,0.00114,16770,16831,7784,8232,3338,0,0,0,0,0,0,0,0,0,477,53432,0.712
-Central Suffolk and North Ipswich,E14001156,Suffolk,East England,England,Conservative,Conservative,Patrick Spencer,15144,0.326,0.0924,10854,15144,8806,5407,5652,0,0,0,0,0,0,0,0,0,560,46423,0.65
+Central Suffolk and North Ipswich,E14001156,Suffolk,East,England,Conservative,Conservative,Patrick Spencer,15144,0.326,0.0924,10854,15144,8806,5407,5652,0,0,0,0,0,0,0,0,0,560,46423,0.65
 Chatham and Aylesford,E14001157,Kent,South East,England,Conservative,Labour,Tris Osborne,13689,0.335,0.0489,13689,11691,9989,2175,2504,0,0,0,0,0,0,0,0,0,797,40845,0.544
 Cheadle,E14001158,Greater Manchester,North West,England,Conservative,Liberal Democrat,Tom Morrison,23681,0.467,0.241,7909,11446,5149,23681,1630,0,0,0,0,0,0,0,0,0,916,50731,0.697
-Chelmsford,E14001159,Essex,East England,England,Conservative,Liberal Democrat,Marie Goldman,20214,0.399,0.0934,6108,15461,6754,20214,1588,0,0,0,0,0,0,0,0,0,591,50868,0.659
+Chelmsford,E14001159,Essex,East,England,Conservative,Liberal Democrat,Marie Goldman,20214,0.399,0.0934,6108,15461,6754,20214,1588,0,0,0,0,0,0,0,0,0,591,50868,0.659
 Chelsea and Fulham,E14001160,London,London,England,Conservative,Labour,Ben Coleman,18556,0.394,0.00323,18556,18404,3144,3611,2798,0,0,0,0,0,0,0,0,0,603,47116,0.616
 Cheltenham,E14001161,Gloucestershire,South West,England,Conservative,Liberal Democrat,Max Wilkinson,25076,0.506,0.146,2665,17866,0,25076,3160,0,0,0,0,0,0,0,0,0,775,49542,0.651
 Chesham and Amersham,E14001162,Buckinghamshire,South East,England,Conservative,Liberal Democrat,Sarah Green,24422,0.448,0.1,3502,18971,5310,24422,1673,0,0,0,0,0,0,0,0,0,577,54455,0.727
@@ -110,9 +110,9 @@ Chorley,E14001170,Lancashire,North West,England,Speaker of the House of Commons,
 Christchurch,E14001171,Dorset,South West,England,Conservative,Conservative,Christopher Chope,16941,0.358,0.157,7762,16941,8961,9486,1900,0,0,0,0,0,0,0,0,0,2285,47335,0.666
 Cities of London and Westminster,E14001172,London,London,England,Conservative,Labour,Rachel Blake,15302,0.39,0.0692,15302,12594,2752,4335,2844,0,0,0,0,0,0,0,0,0,1388,39126,0.533
 City of Durham,E14001173,Durham,North East,England,Labour,Labour,Mary Kelly Foy,19131,0.471,0.289,19131,5221,7374,5920,2803,0,0,0,0,0,0,0,0,0,178,40627,0.576
-Clacton,E14001174,Essex,East England,England,Conservative,Reform UK,Nigel Farage,21225,0.462,0.183,7448,12820,21225,2016,1935,0,0,0,0,0,0,0,0,0,514,45958,0.584
+Clacton,E14001174,Essex,East,England,Conservative,Reform UK,Nigel Farage,21225,0.462,0.183,7448,12820,21225,2016,1935,0,0,0,0,0,0,0,0,0,514,45958,0.584
 Clapham and Brixton Hill,E14001175,London,London,England,Labour,Labour,Bell Ribeiro-Addy,24166,0.565,0.256,24166,4360,1758,6161,5768,0,0,0,0,0,0,0,0,0,528,42741,0.574
-Colchester,E14001176,Essex,East England,England,Conservative,Labour,Pam Cox,18804,0.419,0.184,18804,10554,6664,6393,2414,0,0,0,0,0,0,0,0,0,74,44903,0.571
+Colchester,E14001176,Essex,East,England,Conservative,Labour,Pam Cox,18804,0.419,0.184,18804,10554,6664,6393,2414,0,0,0,0,0,0,0,0,0,74,44903,0.571
 Colne Valley,E14001177,West Yorkshire,Yorkshire and the Humber,England,Conservative,Labour,Paul Davies,18970,0.41,0.107,18970,14007,7298,2007,3480,0,0,0,0,0,0,0,0,0,459,46221,0.636
 Congleton,E14001178,Cheshire,North West,England,Conservative,Labour,Sarah Russell,18875,0.377,0.0685,18875,15488,8245,2785,2007,0,0,0,0,0,0,0,0,0,2725,49425,0.675
 Corby and East Northamptonshire,E14001179,Northamptonshire,East Midlands,England,Conservative,Labour,Lee Barron,21020,0.424,0.128,21020,14689,8760,2191,2507,0,0,0,0,0,0,0,0,0,422,49589,0.638
@@ -142,7 +142,7 @@ Dover and Deal,E14001202,Kent,South East,England,Conservative,Labour,Mike Tapp,1
 Droitwich and Evesham,E14001203,Worcestershire,West Midlands,England,Conservative,Conservative,Nigel Huddleston,19975,0.401,0.181,10980,19975,9456,5131,3828,0,0,0,0,0,0,0,0,0,239,49786,0.65
 Dudley,E14001204,West Midlands,West Midlands,England,Conservative,Labour,Sonia Kumar,12215,0.341,0.0531,12215,10315,9442,1056,1154,0,0,0,0,0,0,0,0,0,1614,35796,0.51
 Dulwich and West Norwood,E14001205,London,London,England,Labour,Labour,Helen Hayes,27356,0.603,0.414,27356,3873,1801,3485,8567,0,0,0,0,0,0,0,0,0,296,45378,0.611
-Dunstable and Leighton Buzzard,E14001206,Bedfordshire,East England,England,Conservative,Labour,Alex Mayer,14976,0.325,0.0145,14976,14309,8071,6497,2115,0,0,0,0,0,0,0,0,0,77,46045,0.62
+Dunstable and Leighton Buzzard,E14001206,Bedfordshire,East,England,Conservative,Labour,Alex Mayer,14976,0.325,0.0145,14976,14309,8071,6497,2115,0,0,0,0,0,0,0,0,0,77,46045,0.62
 Ealing Central and Acton,E14001207,London,London,England,Labour,Labour,Rupa Huq,22340,0.468,0.293,22340,8345,3105,6056,5444,0,0,0,0,0,0,0,0,0,2479,47769,0.609
 Ealing North,E14001208,London,London,England,Labour,Labour,James Murray,20663,0.478,0.289,20663,8144,3948,2543,4056,0,0,0,0,0,0,0,0,0,3878,43202,0.578
 Ealing Southall,E14001209,London,London,England,Labour,Labour,Deirdre Costigan,23000,0.491,0.337,23000,7207,2585,2832,4356,0,0,0,0,0,0,0,0,0,6836,46816,0.595
@@ -160,9 +160,9 @@ Eastleigh,E14001220,Hampstead,South East,England,Conservative,Liberal Democrat,L
 Edmonton and Winchmore Hill,E14001221,London,London,England,Labour,Labour,Kate Osamor,20520,0.5,0.308,20520,7888,3501,2721,3681,0,0,0,0,0,0,0,0,0,2734,41045,0.542
 Ellesmere Port and Bromborough,E14001222,Cheshire,North West,England,Labour,Labour,Justin Madders,24186,0.576,0.403,24186,5210,7278,2328,2706,0,0,0,0,0,0,0,0,0,256,41964,0.593
 Eltham and Chislehurst,E14001223,London,London,England,Labour,Labour,Clive Efford,20069,0.44,0.185,20069,11640,7428,2423,3079,0,0,0,0,0,0,0,0,0,927,45566,0.614
-Ely and East Cambridgeshire,E14001224,Cambridgeshire,East England,England,Conservative,Liberal Democrat,Charlotte Cane,17127,0.327,0.00945,9160,16632,6443,17127,2359,0,0,0,0,0,0,0,0,0,648,52369,0.664
+Ely and East Cambridgeshire,E14001224,Cambridgeshire,East,England,Conservative,Liberal Democrat,Charlotte Cane,17127,0.327,0.00945,9160,16632,6443,17127,2359,0,0,0,0,0,0,0,0,0,648,52369,0.664
 Enfield North,E14001225,London,London,England,Labour,Labour,Feryal Clark,21368,0.491,0.293,21368,8632,5146,2517,3713,0,0,0,0,0,0,0,0,0,2116,43492,0.552
-Epping Forest,E14001226,Essex,East England,England,Conservative,Conservative,Neil Hudson,18038,0.432,0.136,12356,18038,0,5268,2486,0,0,0,0,0,0,0,0,0,3605,41753,0.562
+Epping Forest,E14001226,Essex,East,England,Conservative,Conservative,Neil Hudson,18038,0.432,0.136,12356,18038,0,5268,2486,0,0,0,0,0,0,0,0,0,3605,41753,0.562
 Epsom and Ewell,E14001227,Surrey,South East,England,Conservative,Liberal Democrat,Helen Maguire,20674,0.379,0.0676,8325,16988,5795,20674,1745,0,0,0,0,0,0,0,0,0,998,54525,0.703
 Erewash,E14001228,Derbyshire,East Midlands,England,Conservative,Labour,Adam Thompson,17224,0.399,0.136,17224,11365,9162,2426,2478,0,0,0,0,0,0,0,0,0,351,43181,0.593
 Erith and Thamesmead,E14001229,London,London,England,Labour,Labour,Abena Oppong-Asare,22246,0.551,0.397,22246,5564,5944,1872,3482,0,0,0,0,0,0,0,0,0,1271,40379,0.512
@@ -192,7 +192,7 @@ Gosport,E14001252,Hampstead,South East,England,Conservative,Conservative,Carolin
 Grantham and Bourne,E14001253,Lincolnshire,East Midlands,England,Conservative,Conservative,Gareth Davies,16770,0.364,0.0972,12274,16770,9393,2027,2570,0,0,0,0,0,0,0,0,0,3091,46275,0.629
 Gravesham,E14001254,Kent,South East,England,Conservative,Labour,Lauren Sullivan,16623,0.385,0.0627,16623,13911,8910,1534,2254,0,0,0,0,0,0,0,0,0,0,43232,0.592
 Great Grimsby and Cleethorpes,E14001255,Humberside,Yorkshire and the Humber,England,Conservative,Labour,Melanie Onn,15336,0.419,0.131,15336,8269,10533,1036,1115,0,0,0,0,0,0,0,0,0,330,36619,0.464
-Great Yarmouth,E14001256,Norfolk,East England,England,Conservative,Reform UK,Rupert Lowe,14385,0.353,0.035,12959,10034,14385,1102,1736,0,0,0,0,0,0,0,0,0,532,40748,0.566
+Great Yarmouth,E14001256,Norfolk,East,England,Conservative,Reform UK,Rupert Lowe,14385,0.353,0.035,12959,10034,14385,1102,1736,0,0,0,0,0,0,0,0,0,532,40748,0.566
 Greenwich and Woolwich,E14001257,London,London,England,Labour,Labour,Matthew Pennycook,23999,0.562,0.43,23999,4863,3305,3865,5633,0,0,0,0,0,0,0,0,0,1054,42719,0.581
 Guildford,E14001258,Surrey,South East,England,Conservative,Liberal Democrat,Z�e Franklin,22937,0.475,0.175,3931,14508,4395,22937,2268,0,0,0,0,0,0,0,0,0,255,48294,0.683
 Hackney North and Stoke Newington,E14001259,London,London,England,Labour,Labour,Diane Abbott,24355,0.595,0.368,24355,3457,1283,1562,9275,0,0,0,0,0,0,0,0,0,1027,40959,0.527
@@ -203,29 +203,29 @@ Hamble Valley,E14001263,Hampstead,South East,England,Conservative,Conservative,P
 Hammersmith and Chiswick,E14001264,London,London,England,Labour,Labour,Andy Slaughter,24073,0.523,0.332,24073,8783,2929,4292,4468,0,0,0,0,0,0,0,0,0,1476,46021,0.607
 Hampstead and Highgate,E14001265,London,London,England,Labour,Labour,Tulip Siddiq,23432,0.483,0.288,23432,8462,2940,6181,6630,0,0,0,0,0,0,0,0,0,905,48550,0.607
 Harborough Oadby and Wigston,E14001266,Leicestershire,East Midlands,England,Conservative,Conservative,Neil O'Brien,18614,0.369,0.0472,16236,18614,6332,4732,4269,0,0,0,0,0,0,0,0,0,203,50386,0.651
-Harlow,E14001267,Essex,East England,England,Conservative,Labour,Chris Vince,16313,0.376,0.0578,16313,13809,9461,1350,2267,0,0,0,0,0,0,0,0,0,157,43357,0.581
-Harpenden and Berkhamsted,E14001268,Hertfordshire,East England,England,Conservative,Liberal Democrat,Victoria Collins,27282,0.502,0.197,4061,16574,4245,27282,1951,0,0,0,0,0,0,0,0,0,223,54336,0.75
+Harlow,E14001267,Essex,East,England,Conservative,Labour,Chris Vince,16313,0.376,0.0578,16313,13809,9461,1350,2267,0,0,0,0,0,0,0,0,0,157,43357,0.581
+Harpenden and Berkhamsted,E14001268,Hertfordshire,East,England,Conservative,Liberal Democrat,Victoria Collins,27282,0.502,0.197,4061,16574,4245,27282,1951,0,0,0,0,0,0,0,0,0,223,54336,0.75
 Harrogate and Knaresborough,E14001269,North Yorkshire,Yorkshire and the Humber,England,Conservative,Liberal Democrat,Tom Gordon,23976,0.461,0.158,4153,15738,5679,23976,1762,0,0,0,0,0,0,0,0,0,756,52064,0.668
 Harrow East,E14001270,London,London,England,Conservative,Conservative,Bob Blackman,25466,0.533,0.244,13786,25466,2188,1511,2006,0,0,0,0,0,0,0,0,0,2820,47777,0.626
 Harrow West,E14001271,London,London,England,Labour,Labour,Gareth Thomas,19833,0.438,0.147,19833,13191,2639,2404,2438,0,0,0,0,0,0,0,0,0,4736,45241,0.566
 Hartlepool,E14001272,Durham,North East,England,Conservative,Labour,Jonathan Brash,16414,0.462,0.217,16414,7767,8716,572,834,0,0,0,0,0,0,0,0,0,1208,35511,0.501
-Harwich and North Essex,E14001273,Essex,East England,England,Conservative,Conservative,Bernard Jenkin,16522,0.344,0.0242,15360,16522,9806,3561,2794,0,0,0,0,0,0,0,0,0,0,48043,0.627
+Harwich and North Essex,E14001273,Essex,East,England,Conservative,Conservative,Bernard Jenkin,16522,0.344,0.0242,15360,16522,9806,3561,2794,0,0,0,0,0,0,0,0,0,0,48043,0.627
 Hastings and Rye,E14001274,East Sussex,South East,England,Conservative,Labour,Helena Dollimore,19134,0.416,0.188,19134,10481,7401,2586,5761,0,0,0,0,0,0,0,0,0,627,45990,0.609
 Havant,E14001275,Hampstead,South East,England,Conservative,Conservative,Alan Mak,12986,0.308,0.00218,12894,12986,9959,3275,2861,0,0,0,0,0,0,0,0,0,211,42186,0.582
 Hayes and Harlington,E14001276,London,London,England,Labour,Labour,John McDonnell,20405,0.533,0.314,20405,8374,4114,1316,2131,0,0,0,0,0,0,0,0,0,1975,38315,0.53
 Hazel Grove,E14001277,Greater Manchester,North West,England,Conservative,Liberal Democrat,Lisa Smart,17328,0.377,0.266,10828,9011,6955,17328,1763,0,0,0,0,0,0,0,0,0,113,45998,0.64
-Hemel Hempstead,E14001278,Hertfordshire,East England,England,Conservative,Labour,David Taylor,16844,0.382,0.11,16844,11987,7689,5096,2492,0,0,0,0,0,0,0,0,0,0,44108,0.621
+Hemel Hempstead,E14001278,Hertfordshire,East,England,Conservative,Labour,David Taylor,16844,0.382,0.11,16844,11987,7689,5096,2492,0,0,0,0,0,0,0,0,0,0,44108,0.621
 Hendon,E14001279,London,London,England,Conservative,Labour,David Pinto-Duschinsky,15855,0.384,0.000364,15855,15840,3038,1966,2667,0,0,0,0,0,0,0,0,0,1890,41256,0.551
 Henley and Thame,E14001280,Oxfordshire,South East,England,Conservative,Liberal Democrat,Freddie Van Mierlo,23904,0.45,0.118,3574,17637,5213,23904,2008,0,0,0,0,0,0,0,0,0,821,53157,0.721
 Hereford and South Herefordshire,E14001281,Herefordshire,West Midlands,England,Conservative,Conservative,Jesse Norman,14871,0.326,0.0281,13592,14871,8395,5325,3175,0,0,0,0,0,0,0,0,0,214,45572,0.631
 Herne Bay and Sandwich,E14001282,Kent,South East,England,Conservative,Conservative,Roger Gale,17243,0.353,0.0512,14744,17243,10602,2709,3529,0,0,0,0,0,0,0,0,0,0,48827,0.627
-Hertford and Stortford,E14001283,Hertfordshire,East England,England,Conservative,Labour,Josh Dean,20808,0.385,0.0879,20808,16060,8325,4167,4373,0,0,0,0,0,0,0,0,0,276,54009,0.684
-Hertsmere,E14001284,Hertfordshire,East England,England,Conservative,Conservative,Oliver Dowden,21451,0.447,0.166,13459,21451,6584,3710,2267,0,0,0,0,0,0,0,0,0,536,48007,0.653
+Hertford and Stortford,E14001283,Hertfordshire,East,England,Conservative,Labour,Josh Dean,20808,0.385,0.0879,20808,16060,8325,4167,4373,0,0,0,0,0,0,0,0,0,276,54009,0.684
+Hertsmere,E14001284,Hertfordshire,East,England,Conservative,Conservative,Oliver Dowden,21451,0.447,0.166,13459,21451,6584,3710,2267,0,0,0,0,0,0,0,0,0,536,48007,0.653
 Hexham,E14001285,Northumberland,North East,England,Conservative,Labour,Joe Morris,23988,0.463,0.0716,23988,20275,0,2376,2467,0,0,0,0,0,0,0,0,0,2722,51828,0.678
 Heywood and Middleton North,E14001286,Greater Manchester,North West,England,Labour,Labour,Elsie Blundell,15069,0.406,0.164,15069,6423,8987,2302,0,0,0,0,0,0,0,0,0,0,4349,37130,0.497
 High Peak,E14001287,Derbyshire,East Midlands,England,Conservative,Labour,Jon Pearce,22533,0.458,0.161,22533,14625,6959,1707,3382,0,0,0,0,0,0,0,0,0,0,49226,0.662
 Hinckley and Bosworth,E14001288,Leicestershire,East Midlands,England,Conservative,Conservative,Luke Evans,17032,0.356,0.113,8601,17032,8817,11624,1514,0,0,0,0,0,0,0,0,0,211,47799,0.625
-Hitchin,E14001289,Hertfordshire,East England,England,Conservative,Labour,Alistair Strathern,23067,0.439,0.154,23067,14958,6760,4913,2631,0,0,0,0,0,0,0,0,0,181,52510,0.699
+Hitchin,E14001289,Hertfordshire,East,England,Conservative,Labour,Alistair Strathern,23067,0.439,0.154,23067,14958,6760,4913,2631,0,0,0,0,0,0,0,0,0,181,52510,0.699
 Holborn and St Pancras,E14001290,London,London,England,Labour,Labour,Keir Starmer,18884,0.489,0.3,18884,2776,2371,2236,4030,0,0,0,0,0,0,0,0,0,8305,38602,0.541
 Honiton and Sidmouth,E14001291,Devon,South West,England,Conservative,Liberal Democrat,Richard Foord,23007,0.454,0.132,2947,16307,6289,23007,1394,0,0,0,0,0,0,0,0,0,711,50655,0.672
 Hornchurch and Upminster,E14001292,London,London,England,Conservative,Conservative,Julia Lopez,15260,0.325,0.0414,12939,15260,13317,2381,2620,0,0,0,0,0,0,0,0,0,394,46911,0.622
@@ -234,11 +234,11 @@ Horsham,E14001294,West Sussex,South East,England,Conservative,Liberal Democrat,J
 Houghton and Sunderland South,E14001295,Tyne and Wear,North East,England,Labour,Labour,Bridget Phillipson,18837,0.471,0.179,18837,5514,11668,2290,1723,0,0,0,0,0,0,0,0,0,0,40032,0.51
 Hove and Portslade,E14001296,East Sussex,South East,England,Labour,Labour,Peter Kyle,27209,0.524,0.383,27209,6630,4558,3046,7418,0,0,0,0,0,0,0,0,0,3048,51909,0.699
 Huddersfield,E14001297,West Yorkshire,Yorkshire and the Humber,England,Labour,Labour,Harpreet Uppal,15101,0.376,0.113,15101,6559,6196,1741,10568,0,0,0,0,0,0,0,0,0,0,40165,0.516
-Huntingdon,E14001298,Cambridgeshire,East England,England,Conservative,Conservative,Ben Obese-Jecty,18257,0.351,0.0287,16758,18257,8039,4821,3042,0,0,0,0,0,0,0,0,0,1123,52234,0.658
+Huntingdon,E14001298,Cambridgeshire,East,England,Conservative,Conservative,Ben Obese-Jecty,18257,0.351,0.0287,16758,18257,8039,4821,3042,0,0,0,0,0,0,0,0,0,1123,52234,0.658
 Hyndburn,E14001299,Lancashire,North West,England,Conservative,Labour,Sarah Smith,12186,0.335,0.0461,12186,10499,7541,1210,4938,0,0,0,0,0,0,0,0,0,0,36570,0.478
 Ilford North,E14001300,London,London,England,Labour,Labour,Wes Streeting,15647,0.334,0.0112,15647,9619,3621,1088,1794,0,0,0,0,0,0,0,0,0,15119,47008,0.602
 Ilford South,E14001301,London,London,England,Labour,Labour,Jas Athwal,16537,0.402,0.167,16537,6142,2329,1340,3437,0,0,0,0,0,0,0,0,0,11385,41338,0.508
-Ipswich,E14001302,Suffolk,East England,England,Conservative,Labour,Jack Abbott,19099,0.433,0.168,19099,11696,7027,2241,3652,0,0,0,0,0,0,0,0,0,356,44071,0.584
+Ipswich,E14001302,Suffolk,East,England,Conservative,Labour,Jack Abbott,19099,0.433,0.168,19099,11696,7027,2241,3652,0,0,0,0,0,0,0,0,0,356,44071,0.584
 Isle of Wight East,E14001303,Isle of Wight,South East,England,Conservative,Conservative,Joe Robertson,10427,0.306,0.0975,6264,10427,7104,3550,6313,0,0,0,0,0,0,0,0,0,420,34078,0.61
 Isle of Wight West,E14001304,Isle of Wight,South East,England,Conservative,Labour,Richard Quigley,13240,0.386,0.0927,13240,10063,5834,2726,2310,0,0,0,0,0,0,0,0,0,117,34290,0.619
 Islington North,E14001305,London,London,England,Labour,Independent,Jeremy Corbyn,24120,0.492,0.148,16873,1950,1710,1661,2660,0,0,0,0,0,0,0,0,0,24152,49006,0.675
@@ -280,14 +280,14 @@ Liverpool Wavertree,E14001340,Mersyside,North West,England,Labour,Labour,Paula B
 Liverpool West Derby,E14001341,Mersyside,North West,England,Labour,Labour,Ian Byrne,25302,0.666,0.537,25302,1566,4879,1276,2647,0,0,0,0,0,0,0,0,0,2336,38006,0.544
 Loughborough,E14001342,Leicestershire,East Midlands,England,Conservative,Labour,Jeevun Sandher,17249,0.408,0.117,17249,12289,7204,2561,2956,0,0,0,0,0,0,0,0,0,0,42259,0.613
 Louth and Horncastle,E14001343,Lincolnshire,East Midlands,England,Conservative,Conservative,Victoria Atkins,17441,0.375,0.118,10475,17441,11935,2364,2504,0,0,0,0,0,0,0,0,0,1760,46479,0.605
-Lowestoft,E14001344,Suffolk,East England,England,Conservative,Labour,Jessica Asato,14464,0.346,0.0482,14464,12448,10328,1489,3095,0,0,0,0,0,0,0,0,0,0,41824,0.563
-Luton North,E14001345,Bedfordshire,East England,England,Labour,Labour,Sarah Owen,14677,0.379,0.194,14677,7167,4666,1890,1940,0,0,0,0,0,0,0,0,0,8405,38745,0.518
-Luton South and South Bedfordshire,E14001346,Bedfordshire,East England,England,Labour,Labour,Rachel Hopkins,13593,0.354,0.179,13593,6735,4759,2400,2401,0,0,0,0,0,0,0,0,0,8494,38382,0.499
+Lowestoft,E14001344,Suffolk,East,England,Conservative,Labour,Jessica Asato,14464,0.346,0.0482,14464,12448,10328,1489,3095,0,0,0,0,0,0,0,0,0,0,41824,0.563
+Luton North,E14001345,Bedfordshire,East,England,Labour,Labour,Sarah Owen,14677,0.379,0.194,14677,7167,4666,1890,1940,0,0,0,0,0,0,0,0,0,8405,38745,0.518
+Luton South and South Bedfordshire,E14001346,Bedfordshire,East,England,Labour,Labour,Rachel Hopkins,13593,0.354,0.179,13593,6735,4759,2400,2401,0,0,0,0,0,0,0,0,0,8494,38382,0.499
 Macclesfield,E14001347,Cheshire,North West,England,Conservative,Labour,Tim Roca,24672,0.467,0.172,24672,15552,6592,2482,2493,0,0,0,0,0,0,0,0,0,1001,52935,0.693
 Maidenhead,E14001348,Berkshire,South East,England,Conservative,Liberal Democrat,Joshua Reynolds,21895,0.435,0.0589,5766,18932,0,21895,1996,0,0,0,0,0,0,0,0,0,1740,50329,0.67
 Maidstone and Malling,E14001349,Kent,South East,England,Conservative,Conservative,Helen Grant,14146,0.305,0.0361,12472,14146,9316,6375,3727,0,0,0,0,0,0,0,0,0,353,46389,0.607
 Makerfield,E14001350,Greater Manchester,North West,England,Labour,Labour,Josh Simons,18202,0.452,0.134,18202,4379,12803,2735,1776,0,0,0,0,0,0,0,0,0,368,40398,0.524
-Maldon,E14001351,Essex,East England,England,Conservative,Conservative,John Whittingdale,19374,0.389,0.139,9817,19374,12468,5882,2300,0,0,0,0,0,0,0,0,0,0,49841,0.637
+Maldon,E14001351,Essex,East,England,Conservative,Conservative,John Whittingdale,19374,0.389,0.139,9817,19374,12468,5882,2300,0,0,0,0,0,0,0,0,0,0,49841,0.637
 Manchester Central,E14001352,Greater Manchester,North West,England,Labour,Labour,Lucy Powell,20184,0.508,0.347,20184,2823,4760,3051,6387,0,0,0,0,0,0,0,0,0,2520,39725,0.467
 Manchester Rusholme,E14001353,Greater Manchester,North West,England,Labour,Labour,Afzal Khan,15054,0.519,0.284,15054,1678,1313,0,6819,0,0,0,0,0,0,0,0,0,4169,29033,0.4
 Manchester Withington,E14001354,Greater Manchester,North West,England,Labour,Labour,Jeff Smith,22066,0.529,0.335,22066,2280,1961,5412,8084,0,0,0,0,0,0,0,0,0,1928,41731,0.592
@@ -295,13 +295,13 @@ Mansfield,E14001355,Nottinghamshire,East Midlands,England,Conservative,Labour,St
 Melksham and Devizes,E14001356,Wiltshire,South West,England,Conservative,Liberal Democrat,Brian Mathew,20031,0.391,0.0469,4587,17630,6726,20031,2229,0,0,0,0,0,0,0,0,0,0,51223,0.698
 Melton and Syston,E14001357,Leicestershire,East Midlands,England,Conservative,Conservative,Edward Argar,17526,0.381,0.117,12130,17526,8945,2547,3685,0,0,0,0,0,0,0,0,0,1153,46149,0.619
 Meriden and Solihull East,E14001358,West Midlands,West Midlands,England,Conservative,Conservative,Saqib Bhatti,16792,0.381,0.104,12208,16792,8753,3353,2929,0,0,0,0,0,0,0,0,0,0,44198,0.635
-Mid Bedfordshire,E14001359,Bedfordshire,East England,England,Conservative,Conservative,Blake Stephenson,16912,0.341,0.0266,15591,16912,8594,4068,2584,0,0,0,0,0,0,0,0,0,1872,49621,0.651
+Mid Bedfordshire,E14001359,Bedfordshire,East,England,Conservative,Conservative,Blake Stephenson,16912,0.341,0.0266,15591,16912,8594,4068,2584,0,0,0,0,0,0,0,0,0,1872,49621,0.651
 Mid Buckinghamshire,E14001360,Buckinghamshire,South East,England,Conservative,Conservative,Greg Smith,20150,0.373,0.107,9171,20150,6926,14278,2942,0,0,0,0,0,0,0,0,0,484,54951,0.713
 Mid Cheshire,E14001361,Cheshire,North West,England,Conservative,Labour,Andrew Cooper,18457,0.445,0.214,18457,9530,7967,2465,1967,0,0,0,0,0,0,0,0,0,1123,41624,0.59
 Mid Derbyshire,E14001362,Derbyshire,East Midlands,England,Conservative,Labour,Jonathan Davies,17346,0.365,0.0395,17346,15468,8356,2361,3547,0,0,0,0,0,0,0,0,0,465,47543,0.686
 Mid Dorset and North Poole,E14001363,Dorset,South West,England,Conservative,Liberal Democrat,Vikki Slade,21442,0.433,0.0273,4566,20090,0,21442,2355,0,0,0,0,0,0,0,0,0,1061,49514,0.683
 Mid Leicestershire,E14001364,Leicestershire,East Midlands,England,Conservative,Conservative,Peter Bedford,17735,0.369,0.0456,15534,17735,8923,2444,3414,0,0,0,0,0,0,0,0,0,0,48235,0.633
-Mid Norfolk,E14001365,Norfolk,East England,England,Conservative,Conservative,George Freeman,16770,0.365,0.0665,13716,16770,9427,3126,2858,0,0,0,0,0,0,0,0,0,0,45897,0.67
+Mid Norfolk,E14001365,Norfolk,East,England,Conservative,Conservative,George Freeman,16770,0.365,0.0665,13716,16770,9427,3126,2858,0,0,0,0,0,0,0,0,0,0,45897,0.67
 Mid Sussex,E14001366,West Sussex,South East,England,Conservative,Liberal Democrat,Alison Bennett,21136,0.396,0.125,9397,14474,5921,21136,2048,0,0,0,0,0,0,0,0,0,352,53328,0.702
 Middlesbrough South and East Cleveland,E14001368,North Yorkshire,North East,England,Conservative,Labour,Luke Myer,16468,0.433,0.00563,16468,16254,0,2032,1446,0,0,0,0,0,0,0,0,0,1835,38035,0.541
 Middlesbrough and Thornaby East,E14001367,North Yorkshire,North East,England,Labour,Labour,Andy McDonald,16238,0.472,0.267,16238,6174,7046,1037,1522,0,0,0,0,0,0,0,0,0,2390,34407,0.458
@@ -320,32 +320,32 @@ Newcastle upon Tyne North,E14001379,Tyne and Wear,North East,England,Labour,Labo
 Newton Abbot,E14001381,Devon,South West,England,Conservative,Liberal Democrat,Martin Wrigley,15201,0.317,0.0468,7115,12955,8494,15201,2083,0,0,0,0,0,0,0,0,0,2144,47992,0.65
 Newton Aycliffe and Spennymoor,E14001382,Durham,North East,England,Conservative,Labour,Alan Strickland,18394,0.462,0.221,18394,8195,9555,1491,1701,0,0,0,0,0,0,0,0,0,510,39925,0.552
 Normanton and Hemsworth,E14001383,West Yorkshire,Yorkshire and the Humber,England,Labour,Labour,Jon Trickett,17275,0.475,0.183,17275,4995,10613,1319,2147,0,0,0,0,0,0,0,0,0,0,36349,0.481
-North Bedfordshire,E14001384,Bedfordshire,East England,England,Conservative,Conservative,Richard Fuller,19981,0.388,0.105,14567,19981,8433,5553,3027,0,0,0,0,0,0,0,0,0,0,51561,0.654
+North Bedfordshire,E14001384,Bedfordshire,East,England,Conservative,Conservative,Richard Fuller,19981,0.388,0.105,14567,19981,8433,5553,3027,0,0,0,0,0,0,0,0,0,0,51561,0.654
 North Cornwall,E14001385,Cornwall,South West,England,Conservative,Liberal Democrat,Ben Maguire,24904,0.478,0.207,2958,14137,8444,24904,1335,0,0,0,0,0,0,0,0,0,277,52055,0.678
 North Cotswolds,E14001386,Gloucestershire,South West,England,Conservative,Conservative,Geoffrey Clifton-Brown,17426,0.347,0.0668,8593,17426,6502,14069,3191,0,0,0,0,0,0,0,0,0,448,50229,0.698
 North Devon,E14001387,Devon,South West,England,Conservative,Liberal Democrat,Ian Roome,21820,0.424,0.131,3216,15076,8137,21820,2348,0,0,0,0,0,0,0,0,0,820,51417,0.704
 North Dorset,E14001388,Dorset,South West,England,Conservative,Conservative,Simon Hoare,18208,0.366,0.032,4370,18208,7894,16619,2082,0,0,0,0,0,0,0,0,0,510,49683,0.684
 North Durham,E14001389,Durham,North East,England,Labour,Labour,Luke Akehurst,16562,0.398,0.141,16562,6492,10689,4208,2366,0,0,0,0,0,0,0,0,0,1248,41727,0.568
-North East Cambridgeshire,E14001390,Cambridgeshire,East England,England,Conservative,Conservative,Steve Barclay,16246,0.415,0.184,8008,16246,9057,2716,2001,0,0,0,0,0,0,0,0,0,1148,39176,0.515
+North East Cambridgeshire,E14001390,Cambridgeshire,East,England,Conservative,Conservative,Steve Barclay,16246,0.415,0.184,8008,16246,9057,2716,2001,0,0,0,0,0,0,0,0,0,1148,39176,0.515
 North East Derbyshire,E14001391,Derbyshire,East Midlands,England,Conservative,Labour,Louise Jones,17591,0.384,0.038,17591,15838,7899,2159,2271,0,0,0,0,0,0,0,0,0,108,46149,0.627
 North East Hampshire,E14001392,Hampstead,South East,England,Conservative,Liberal Democrat,Alex Brewer,21178,0.381,0.0114,5057,20544,6673,21178,1425,0,0,0,0,0,0,0,0,0,683,55560,0.722
-North East Hertfordshire,E14001393,Hertfordshire,East England,England,Conservative,Labour,Chris Hinchliff,18358,0.35,0.0366,18358,16435,8462,5463,3802,0,0,0,0,0,0,0,0,0,0,52520,0.69
+North East Hertfordshire,E14001393,Hertfordshire,East,England,Conservative,Labour,Chris Hinchliff,18358,0.35,0.0366,18358,16435,8462,5463,3802,0,0,0,0,0,0,0,0,0,0,52520,0.69
 North East Somerset and Hanham,E14001394,Somerset,South West,England,Conservative,Labour,Dan Norris,20739,0.406,0.104,20739,15420,7424,3878,3222,0,0,0,0,0,0,0,0,0,442,51125,0.692
 North Herefordshire,E14001395,Herefordshire,West Midlands,England,Conservative,Green,Ellie Chowns,21736,0.432,0.117,3205,15842,8048,1436,21736,0,0,0,0,0,0,0,0,0,95,50362,0.717
-North Norfolk,E14001396,Norfolk,East England,England,Conservative,Liberal Democrat,Steffan Aquarone,19488,0.414,0.0515,2878,16903,6368,19488,1406,0,0,0,0,0,0,0,0,0,0,50219,0.667
+North Norfolk,E14001396,Norfolk,East,England,Conservative,Liberal Democrat,Steffan Aquarone,19488,0.414,0.0515,2878,16903,6368,19488,1406,0,0,0,0,0,0,0,0,0,0,50219,0.667
 North Northumberland,E14001397,Northumberland,North East,England,Conservative,Labour,David Smith,17855,0.366,0.104,17855,12788,7688,5169,1743,0,0,0,0,0,0,0,0,0,3600,48843,0.659
 North Shropshire,E14001398,Shropshire,West Midlands,England,Conservative,Liberal Democrat,Helen Morgan,26214,0.529,0.309,3423,10903,7687,26214,1234,0,0,0,0,0,0,0,0,0,133,49594,0.639
 North Somerset,E14001399,Somerset,South West,England,Conservative,Labour,Sadik Al-Hassan,19138,0.356,0.0119,19138,18499,5602,7121,3273,0,0,0,0,0,0,0,0,0,133,53766,0.763
 North Warwickshire and Bedworth,E14001400,Warwickshire,West Midlands,England,Conservative,Labour,Rachel Taylor,14727,0.36,0.0537,14727,12529,10701,1228,1755,0,0,0,0,0,0,0,0,0,0,40940,0.587
-North West Cambridgeshire,E14001401,Cambridgeshire,East England,England,Conservative,Labour,Sam Carling,14785,0.333,0.000878,14785,14746,8741,3192,2960,0,0,0,0,0,0,0,0,0,0,44424,0.585
-North West Essex,E14001402,Essex,East England,England,Conservative,Conservative,Kemi Badenoch,19360,0.356,0.048,16750,19360,7668,6055,2846,0,0,0,0,0,0,0,0,0,1707,54386,0.681
+North West Cambridgeshire,E14001401,Cambridgeshire,East,England,Conservative,Labour,Sam Carling,14785,0.333,0.000878,14785,14746,8741,3192,2960,0,0,0,0,0,0,0,0,0,0,44424,0.585
+North West Essex,E14001402,Essex,East,England,Conservative,Conservative,Kemi Badenoch,19360,0.356,0.048,16750,19360,7668,6055,2846,0,0,0,0,0,0,0,0,0,1707,54386,0.681
 North West Hampshire,E14001403,Hampstead,South East,England,Conservative,Conservative,Kit Malthouse,17770,0.35,0.0647,14482,17770,7734,7626,2745,0,0,0,0,0,0,0,0,0,466,50823,0.667
 North West Leicestershire,E14001404,Leicestershire,East Midlands,England,Conservative,Labour,Amanda Hack,16871,0.347,0.0208,16871,15859,9678,1629,2831,0,0,0,0,0,0,0,0,0,1704,48572,0.625
-North West Norfolk,E14001405,Norfolk,East England,England,Conservative,Conservative,James Wild,16097,0.361,0.111,11143,16097,8697,6492,2137,0,0,0,0,0,0,0,0,0,0,44566,0.599
+North West Norfolk,E14001405,Norfolk,East,England,Conservative,Conservative,James Wild,16097,0.361,0.111,11143,16097,8697,6492,2137,0,0,0,0,0,0,0,0,0,0,44566,0.599
 Northampton North,E14001406,Northamptonshire,East Midlands,England,Conservative,Labour,Lucy Rigby,18209,0.435,0.216,18209,9195,7010,2251,2558,0,0,0,0,0,0,0,0,0,2590,41813,0.553
 Northampton South,E14001407,Northamptonshire,East Midlands,England,Conservative,Labour,Mike Reader,16890,0.385,0.0927,16890,12819,8210,3193,2398,0,0,0,0,0,0,0,0,0,394,43904,0.624
-Norwich North,E14001408,Norfolk,East England,England,Conservative,Labour,Alice MacDonald,20794,0.454,0.237,20794,9944,8229,2073,4372,0,0,0,0,0,0,0,0,0,353,45765,0.604
-Norwich South,E14001409,Norfolk,East England,England,Labour,Labour,Clive Lewis,21484,0.476,0.294,21484,5806,5227,3577,8245,0,0,0,0,0,0,0,0,0,756,45095,0.59
+Norwich North,E14001408,Norfolk,East,England,Conservative,Labour,Alice MacDonald,20794,0.454,0.237,20794,9944,8229,2073,4372,0,0,0,0,0,0,0,0,0,353,45765,0.604
+Norwich South,E14001409,Norfolk,East,England,Labour,Labour,Clive Lewis,21484,0.476,0.294,21484,5806,5227,3577,8245,0,0,0,0,0,0,0,0,0,756,45095,0.59
 Nottingham East,E14001410,Nottinghamshire,East Midlands,England,Labour,Labour,Nadia Whittome,19494,0.536,0.417,19494,3925,3578,1741,4332,0,0,0,0,0,0,0,0,0,3291,36401,0.525
 Nottingham North and Kimberley,E14001411,Nottinghamshire,East Midlands,England,Labour,Labour,Alex Norris,16480,0.471,0.269,16480,6787,7053,1336,3351,0,0,0,0,0,0,0,0,0,0,35007,0.475
 Nottingham South,E14001412,Nottinghamshire,East Midlands,England,Labour,Labour,Lilian Greenwood,15579,0.474,0.313,15579,5285,4936,2059,2923,0,0,0,0,0,0,0,0,0,2097,32879,0.512
@@ -361,7 +361,7 @@ Peckham,E14001421,London,London,England,Labour,Labour,Miatta Fahnbulleh,22813,0.
 Pendle and Clitheroe,E14001422,Lancashire,North West,England,Conservative,Labour,Jonathan Hinder,16129,0.345,0.0193,16129,15227,8171,2039,1421,0,0,0,0,0,0,0,0,0,3767,46754,0.593
 Penistone and Stocksbridge,E14001423,South Yorkshire,Yorkshire and the Humber,England,Conservative,Labour,Marie Tidball,19169,0.436,0.198,19169,10430,9456,2866,2044,0,0,0,0,0,0,0,0,0,0,44132,0.621
 Penrith and Solway,E14001424,Cumbria,North West,England,Conservative,Labour,Markus Campbell-Savours,19986,0.406,0.107,19986,14729,7624,4742,1730,0,0,0,0,0,0,0,0,0,470,49281,0.632
-Peterborough,E14001425,Cambridgeshire,East England,England,Conservative,Labour,Andrew Pakes,13418,0.32,0.00282,13418,13300,5379,1746,2542,0,0,0,0,0,0,0,0,0,5487,41872,0.571
+Peterborough,E14001425,Cambridgeshire,East,England,Conservative,Labour,Andrew Pakes,13418,0.32,0.00282,13418,13300,5379,1746,2542,0,0,0,0,0,0,0,0,0,5487,41872,0.571
 Plymouth Moor View,E14001426,Devon,South West,England,Conservative,Labour,Fred Thomas,17665,0.412,0.131,17665,12061,9670,1766,1694,0,0,0,0,0,0,0,0,0,0,42856,0.574
 Plymouth Sutton and Devonport,E14001427,Devon,South West,England,Labour,Labour,Luke Pollard,20795,0.494,0.317,20795,6873,7467,2441,3186,0,0,0,0,0,0,0,0,0,1333,42095,0.559
 Pontefract Castleford and Knottingley,E14001428,West Yorkshire,Yorkshire and the Humber,England,Labour,Labour,Yvette Cooper,17089,0.475,0.184,17089,5406,10459,1213,1651,0,0,0,0,0,0,0,0,0,139,35957,0.482
@@ -373,7 +373,7 @@ Preston,E14001433,Lancashire,North West,England,Labour,Labour,Mark Hendrick,1400
 Putney,E14001434,London,London,England,Labour,Labour,Fleur Anderson,20952,0.49,0.256,20952,10011,2681,5189,3182,0,0,0,0,0,0,0,0,0,722,42737,0.589
 Queen's Park and Maida Vale,E14001435,London,London,England,Labour,Labour,Georgia Gould,20126,0.525,0.386,20126,5088,2106,3417,5213,0,0,0,0,0,0,0,0,0,2393,38613,0.508
 Rawmarsh and Conisbrough,E14001436,South Yorkshire,Yorkshire and the Humber,England,Labour,Labour,John Healey,16612,0.49,0.204,16612,4496,9704,1137,1687,0,0,0,0,0,0,0,0,0,268,33904,0.482
-Rayleigh and Wickford,E14001437,Essex,East England,England,Conservative,Conservative,Mark Francois,17756,0.37,0.117,11823,17756,12135,4068,2196,0,0,0,0,0,0,0,0,0,0,47978,0.627
+Rayleigh and Wickford,E14001437,Essex,East,England,Conservative,Conservative,Mark Francois,17756,0.37,0.117,11823,17756,12135,4068,2196,0,0,0,0,0,0,0,0,0,0,47978,0.627
 Reading Central,E14001438,Berkshire,South East,England,Labour,Labour,Matt Rodda,21598,0.477,0.279,21598,8961,3904,3963,6417,0,0,0,0,0,0,0,0,0,448,45291,0.615
 Reading West and Mid Berkshire,E14001439,Berkshire,South East,England,Conservative,Labour,Olivia Bailey,16273,0.35,0.0292,16273,14912,6260,5103,3169,0,0,0,0,0,0,0,0,0,834,46551,0.677
 Redcar,E14001440,North Yorkshire,North East,England,Conservative,Labour,Anna Turley,15663,0.41,0.087,15663,12340,7216,1542,1270,0,0,0,0,0,0,0,0,0,169,38200,0.544
@@ -416,8 +416,8 @@ Sleaford and North Hykeham,E14001476,Lincolnshire,East Midlands,England,Conserva
 Slough,E14001477,Berkshire,South East,England,Labour,Labour,Tan Dhesi,14666,0.339,0.0843,14666,7457,3352,2060,1873,0,0,0,0,0,0,0,0,0,13870,43278,0.531
 Smethwick,E14001478,West Midlands,West Midlands,England,Labour,Labour,Gurinder Josan,16858,0.48,0.319,16858,4546,5670,1018,2741,0,0,0,0,0,0,0,0,0,4282,35125,0.482
 Solihull West and Shirley,E14001479,West Midlands,West Midlands,England,Conservative,Conservative,Neil Shastri-Hurst,16284,0.347,0.0986,11664,16284,7149,7916,3270,0,0,0,0,0,0,0,0,0,594,46877,0.653
-South Basildon and East Thurrock,E14001480,Essex,East England,England,Conservative,Reform UK,James McMurdock,12178,0.308,0.00248,12080,10159,12178,1071,1718,0,0,0,0,0,0,0,0,0,2343,39549,0.528
-South Cambridgeshire,E14001481,Cambridgeshire,East England,England,Conservative,Liberal Democrat,Pippa Heylings,25704,0.468,0.194,6106,15063,4897,25704,2656,0,0,0,0,0,0,0,0,0,459,54885,0.61
+South Basildon and East Thurrock,E14001480,Essex,East,England,Conservative,Reform UK,James McMurdock,12178,0.308,0.00248,12080,10159,12178,1071,1718,0,0,0,0,0,0,0,0,0,2343,39549,0.528
+South Cambridgeshire,E14001481,Cambridgeshire,East,England,Conservative,Liberal Democrat,Pippa Heylings,25704,0.468,0.194,6106,15063,4897,25704,2656,0,0,0,0,0,0,0,0,0,459,54885,0.61
 South Cotswolds,E14001482,Gloucestershire,South West,England,Conservative,Liberal Democrat,Roz Savage,22961,0.439,0.0951,3942,17988,5146,22961,1564,0,0,0,0,0,0,0,0,0,686,52287,0.716
 South Derbyshire,E14001483,Derbyshire,East Midlands,England,Conservative,Labour,Samantha Niblett,17734,0.388,0.0911,17734,13566,8979,2134,1941,0,0,0,0,0,0,0,0,0,1383,45737,0.621
 South Devon,E14001484,Devon,South West,England,Conservative,Liberal Democrat,Caroline Voaden,22540,0.46,0.145,3066,15413,6363,22540,1497,0,0,0,0,0,0,0,0,0,125,49004,0.693
@@ -425,34 +425,34 @@ South Dorset,E14001485,Dorset,South West,England,Conservative,Labour,Lloyd Hatto
 South East Cornwall,E14001486,Cornwall,South West,England,Conservative,Labour,Anna Gelderd,15670,0.318,0.0388,15670,13759,9311,8284,1999,0,0,0,0,0,0,0,0,0,263,49286,0.678
 South Holland and the Deepings,E14001487,Lincolnshire,East Midlands,England,Conservative,Conservative,John Hayes,17462,0.38,0.149,9086,17462,10606,1945,1800,0,0,0,0,0,0,0,0,0,5031,45930,0.604
 South Leicestershire,E14001488,Leicestershire,East Midlands,England,Conservative,Conservative,Alberto Costa,18264,0.356,0.107,12758,18264,10235,7621,2481,0,0,0,0,0,0,0,0,0,0,51359,0.654
-South Norfolk,E14001489,Norfolk,East England,England,Conservative,Labour,Ben Goldsborough,17353,0.35,0.057,17353,14527,7583,5746,3987,0,0,0,0,0,0,0,0,0,383,49579,0.669
+South Norfolk,E14001489,Norfolk,East,England,Conservative,Labour,Ben Goldsborough,17353,0.35,0.057,17353,14527,7583,5746,3987,0,0,0,0,0,0,0,0,0,383,49579,0.669
 South Northamptonshire,E14001490,Northamptonshire,East Midlands,England,Conservative,Conservative,Sarah Bool,19191,0.357,0.0687,15504,19191,8962,4989,3040,0,0,0,0,0,0,0,0,0,2011,53697,0.686
 South Ribble,E14001491,Lancashire,North West,England,Conservative,Labour,Paul Foster,19840,0.425,0.139,19840,13339,8995,2972,1574,0,0,0,0,0,0,0,0,0,0,46720,0.636
 South Shields,E14001492,Tyne and Wear,North East,England,Labour,Labour,Emma Lewell-Buck,15122,0.411,0.181,15122,4128,8469,1402,5433,0,0,0,0,0,0,0,0,0,2270,36824,0.539
 South Shropshire,E14001493,Shropshire,West Midlands,England,Conservative,Conservative,Stuart Anderson,17628,0.341,0.0314,6939,17628,9171,16004,1911,0,0,0,0,0,0,0,0,0,0,51653,0.673
-South Suffolk,E14001494,Suffolk,East England,England,Conservative,Conservative,James Cartlidge,16082,0.33,0.0624,13035,16082,9252,6424,4008,0,0,0,0,0,0,0,0,0,0,48801,0.657
+South Suffolk,E14001494,Suffolk,East,England,Conservative,Conservative,James Cartlidge,16082,0.33,0.0624,13035,16082,9252,6424,4008,0,0,0,0,0,0,0,0,0,0,48801,0.657
 South West Devon,E14001495,Devon,South West,England,Conservative,Conservative,Rebecca Smith,17916,0.343,0.0404,15804,17916,9361,5551,2925,0,0,0,0,0,0,0,0,0,685,52242,0.665
-South West Hertfordshire,E14001496,Hertfordshire,East England,England,Conservative,Conservative,Gagan Mohindra,16458,0.341,0.0923,9637,16458,6790,12002,2532,0,0,0,0,0,0,0,0,0,835,48254,0.676
-South West Norfolk,E14001497,Norfolk,East England,England,Conservative,Labour,Terry Jermy,11847,0.267,0.0142,11847,11217,9958,2618,1838,0,0,0,0,0,0,0,0,0,6857,44335,0.599
+South West Hertfordshire,E14001496,Hertfordshire,East,England,Conservative,Conservative,Gagan Mohindra,16458,0.341,0.0923,9637,16458,6790,12002,2532,0,0,0,0,0,0,0,0,0,835,48254,0.676
+South West Norfolk,E14001497,Norfolk,East,England,Conservative,Labour,Terry Jermy,11847,0.267,0.0142,11847,11217,9958,2618,1838,0,0,0,0,0,0,0,0,0,6857,44335,0.599
 South West Wiltshire,E14001498,Wiltshire,South West,England,Conservative,Conservative,Andrew Murrison,15617,0.338,0.0702,12374,15617,7840,7205,2243,0,0,0,0,0,0,0,0,0,889,46168,0.632
 Southampton Itchen,E14001499,Hampstead,South East,England,Conservative,Labour,Darren Paffey,15782,0.415,0.16,15782,9677,6853,2684,2793,0,0,0,0,0,0,0,0,0,264,38053,0.526
 Southampton Test,E14001500,Hampstead,South East,England,Labour,Labour,Satvir Kaur,15945,0.445,0.261,15945,6612,5261,3252,3594,0,0,0,0,0,0,0,0,0,1141,35805,0.511
-Southend East and Rochford,E14001501,Essex,East England,England,Conservative,Labour,Bayo Alaba,15395,0.388,0.102,15395,11368,7214,2269,2716,0,0,0,0,0,0,0,0,0,694,39656,0.565
-Southend West and Leigh,E14001502,Essex,East England,England,Conservative,Labour,David Burton-Sampson,16739,0.356,0.0415,16739,14790,8273,3174,3262,0,0,0,0,0,0,0,0,0,632,46968,0.625
+Southend East and Rochford,E14001501,Essex,East,England,Conservative,Labour,Bayo Alaba,15395,0.388,0.102,15395,11368,7214,2269,2716,0,0,0,0,0,0,0,0,0,694,39656,0.565
+Southend West and Leigh,E14001502,Essex,East,England,Conservative,Labour,David Burton-Sampson,16739,0.356,0.0415,16739,14790,8273,3174,3262,0,0,0,0,0,0,0,0,0,632,46968,0.625
 Southgate and Wood Green,E14001503,London,London,England,Labour,Labour,Bambos Charalambous,23337,0.511,0.279,23337,8037,3147,3925,5607,0,0,0,0,0,0,0,0,0,1618,45671,0.589
 Southport,E14001504,Mersyside,North West,England,Conservative,Labour,Patrick Hurley,17252,0.383,0.128,17252,11463,7395,5868,2159,0,0,0,0,0,0,0,0,0,922,45059,0.612
 Spelthorne,E14001505,Surrey,South East,England,Conservative,Conservative,Lincoln Jopp,14038,0.304,0.0344,12448,14038,8284,8710,2413,0,0,0,0,0,0,0,0,0,273,46166,0.651
 Spen Valley,E14001506,West Yorkshire,Yorkshire and the Humber,England,Conservative,Labour,Kim Leadbeater,16076,0.392,0.151,16076,9859,9888,1425,2284,0,0,0,0,0,0,0,0,0,1526,41058,0.565
-St Albans,E14001507,Hertfordshire,East England,England,Liberal Democrat,Liberal Democrat,Daisy Cooper,29222,0.566,0.384,5189,9388,4336,29222,3272,0,0,0,0,0,0,0,0,0,207,51614,0.71
+St Albans,E14001507,Hertfordshire,East,England,Liberal Democrat,Liberal Democrat,Daisy Cooper,29222,0.566,0.384,5189,9388,4336,29222,3272,0,0,0,0,0,0,0,0,0,207,51614,0.71
 St Austell and Newquay,E14001508,Cornwall,South West,England,Conservative,Labour,Noah Law,15958,0.341,0.0529,15958,13488,9212,4805,2337,0,0,0,0,0,0,0,0,0,932,46732,0.614
 St Helens North,E14001509,Mersyside,North West,England,Labour,Labour,David Baines,21284,0.526,0.301,21284,4507,9115,1799,3495,0,0,0,0,0,0,0,0,0,274,40474,0.535
 St Helens South and Whiston,E14001510,Mersyside,North West,England,Labour,Labour,Marie Rimmer,18919,0.497,0.313,18919,3057,6974,2199,2642,0,0,0,0,0,0,0,0,0,4244,38120,0.531
 St Ives,E14001511,Cornwall,South West,England,Conservative,Liberal Democrat,Andrew George,25033,0.52,0.287,2788,11247,6492,25033,1797,0,0,0,0,0,0,0,0,0,749,48106,0.687
-St Neots and Mid Cambridgeshire,E14001512,Cambridgeshire,East England,England,Conservative,Liberal Democrat,Ian Sollom,19517,0.369,0.0879,6918,14896,5673,19517,2663,0,0,0,0,0,0,0,0,0,3215,52855,0.677
+St Neots and Mid Cambridgeshire,E14001512,Cambridgeshire,East,England,Conservative,Liberal Democrat,Ian Sollom,19517,0.369,0.0879,6918,14896,5673,19517,2663,0,0,0,0,0,0,0,0,0,3215,52855,0.677
 Stafford,E14001513,Staffordshire,West Midlands,England,Conservative,Labour,Leigh Ingham,18531,0.403,0.0999,18531,13936,8612,1676,2856,0,0,0,0,0,0,0,0,0,398,46009,0.668
 Staffordshire Moorlands,E14001514,Staffordshire,West Midlands,England,Conservative,Conservative,Karen Bradley,15310,0.354,0.0271,14135,15310,10065,1499,2293,0,0,0,0,0,0,0,0,0,0,43302,0.629
 Stalybridge and Hyde,E14001515,Greater Manchester,North West,England,Labour,Labour,Jonathan Reynolds,16320,0.438,0.229,16320,6872,7781,1080,2745,0,0,0,0,0,0,0,0,0,2441,37239,0.504
-Stevenage,E14001516,Hertfordshire,East England,England,Conservative,Labour,Kevin Bonavia,17698,0.414,0.155,17698,11080,7667,3467,2655,0,0,0,0,0,0,0,0,0,148,42715,0.61
+Stevenage,E14001516,Hertfordshire,East,England,Conservative,Labour,Kevin Bonavia,17698,0.414,0.155,17698,11080,7667,3467,2655,0,0,0,0,0,0,0,0,0,148,42715,0.61
 Stockport,E14001517,Greater Manchester,North West,England,Labour,Labour,Navendu Mishra,21787,0.499,0.348,21787,4967,6517,3724,4865,0,0,0,0,0,0,0,0,0,1823,43868,0.571
 Stockton North,E14001518,Durham,North East,England,Labour,Labour,Chris McDonald,17128,0.458,0.212,17128,8028,9189,1133,1923,0,0,0,0,0,0,0,0,0,0,37401,0.561
 Stockton West,E14001519,Durham,North East,England,Conservative,Conservative,Matt Vickers,20372,0.419,0.0439,18233,20372,6833,1203,1477,0,0,0,0,0,0,0,0,0,520,48765,0.676
@@ -466,7 +466,7 @@ Stratford-on-Avon,E14001526,Warwickshire,West Midlands,England,Conservative,Libe
 Streatham and Croydon North,E14001527,London,London,England,Labour,Labour,Steve Reed,23232,0.521,0.35,23232,5328,1994,5031,7629,0,0,0,0,0,0,0,0,0,1339,44553,0.526
 Stretford and Urmston,E14001528,Greater Manchester,North West,England,Labour,Labour,Andrew Western,22642,0.492,0.35,22642,6492,5485,2216,4398,0,0,0,0,0,0,0,0,0,4769,46170,0.636
 Stroud,E14001529,Gloucestershire,South West,England,Conservative,Labour,Simon Opher,25607,0.464,0.207,25630,14219,6329,2913,5729,0,0,0,0,0,0,0,0,0,424,55244,0.709
-Suffolk Coastal,E14001530,Suffolk,East England,England,Conservative,Labour,Jenny Riddell-Carpenter,15672,0.317,0.0216,15672,14602,7850,6947,4380,0,0,0,0,0,0,0,0,0,0,49451,0.666
+Suffolk Coastal,E14001530,Suffolk,East,England,Conservative,Labour,Jenny Riddell-Carpenter,15672,0.317,0.0216,15672,14602,7850,6947,4380,0,0,0,0,0,0,0,0,0,0,49451,0.666
 Sunderland Central,E14001531,Tyne and Wear,North East,England,Labour,Labour,Lewis Atkinson,16852,0.422,0.152,16852,5731,10779,3602,2993,0,0,0,0,0,0,0,0,0,0,39957,0.55
 Surrey Heath,E14001532,Surrey,South East,England,Conservative,Liberal Democrat,Al Pinkerton,21387,0.448,0.118,3148,15747,6252,21387,1162,0,0,0,0,0,0,0,0,0,92,47928,0.666
 Sussex Weald,E14001533,East Sussex,South East,England,Conservative,Conservative,Nus Ghani,16758,0.341,0.139,8239,16758,8920,9916,3762,0,0,0,0,0,0,0,0,0,1580,49175,0.675
@@ -482,7 +482,7 @@ Tewkesbury,E14001542,Gloucestershire,South West,England,Conservative,Liberal Dem
 The Wrekin,E14001543,Shropshire,West Midlands,England,Conservative,Conservative,Mark Pritchard,16320,0.326,0.0177,15437,16320,9920,4757,3028,0,0,0,0,0,0,0,0,0,558,50020,0.634
 Thirsk and Malton,E14001544,North Yorkshire,Yorkshire and the Humber,England,Conservative,Conservative,Kevin Hollinrake,19544,0.392,0.152,11994,19544,8963,5379,2986,0,0,0,0,0,0,0,0,0,931,49797,0.635
 Thornbury and Yate,E14001545,Avon,South West,England,Conservative,Liberal Democrat,Claire Young,20815,0.39,0.0565,5057,17801,7529,20815,2165,0,0,0,0,0,0,0,0,0,�,53367,0.682
-Thurrock,E14001546,Essex,East England,England,Conservative,Labour,Jen Craft,16050,0.427,0.172,16050,8009,9576,1157,1632,0,0,0,0,0,0,0,0,0,1134,37558,0.518
+Thurrock,E14001546,Essex,East,England,Conservative,Labour,Jen Craft,16050,0.427,0.172,16050,8009,9576,1157,1632,0,0,0,0,0,0,0,0,0,1134,37558,0.518
 Tipton and Wednesbury,E14001547,West Midlands,West Midlands,England,Conservative,Labour,Antonia Bance,11755,0.369,0.106,11755,8370,8019,592,1509,0,0,0,0,0,0,0,0,0,1605,31850,0.429
 Tiverton and Minehead,E14001548,Somerset,South West,England,Conservative,Liberal Democrat,Rachel Gilmour,18326,0.386,0.0738,4325,14819,7787,18326,2234,0,0,0,0,0,0,0,0,0,0,47491,0.661
 Tonbridge,E14001549,Kent,South East,England,Conservative,Conservative,Tom Tugendhat,20517,0.408,0.222,9351,20517,7548,4234,7596,0,0,0,0,0,0,0,0,0,1082,50328,0.705
@@ -504,17 +504,17 @@ Warrington North,E14001564,Cheshire,North West,England,Labour,Labour,Charlotte N
 Warrington South,E14001565,Cheshire,North West,England,Labour,Labour,Sarah Hall,23201,0.467,0.228,23201,11861,7913,3829,2313,0,0,0,0,0,0,0,0,0,555,49672,0.642
 Warwick and Leamington,E14001566,Warwickshire,West Midlands,England,Labour,Labour,Matt Western,23975,0.487,0.252,23975,11563,5154,3881,4471,0,0,0,0,0,0,0,0,0,154,49198,0.643
 Washington and Gateshead South,E14001567,Tyne and Wear,North East,England,Labour,Labour,Sharon Hodgson,17682,0.478,0.187,17682,4654,10769,1602,1687,0,0,0,0,0,0,0,0,0,627,37021,0.522
-Watford,E14001568,Hertfordshire,East England,England,Conservative,Labour,Matt Turmaine,15708,0.353,0.106,15708,10985,4930,7577,2428,0,0,0,0,0,0,0,0,0,2827,44455,0.609
-Waveney Valley,E14001569,Suffolk,East England,England,Conservative,Green,Adrian Ramsay,20467,0.417,0.114,4621,14874,7779,1214,20467,0,0,0,0,0,0,0,0,0,118,49073,0.762
+Watford,E14001568,Hertfordshire,East,England,Conservative,Labour,Matt Turmaine,15708,0.353,0.106,15708,10985,4930,7577,2428,0,0,0,0,0,0,0,0,0,2827,44455,0.609
+Waveney Valley,E14001569,Suffolk,East,England,Conservative,Green,Adrian Ramsay,20467,0.417,0.114,4621,14874,7779,1214,20467,0,0,0,0,0,0,0,0,0,118,49073,0.762
 Weald of Kent,E14001570,Kent,South East,England,Conservative,Conservative,Katie Lam,20202,0.398,0.166,11780,20202,10208,3975,4547,0,0,0,0,0,0,0,0,0,0,50712,0.667
 Wellingborough and Rushden,E14001571,Northamptonshire,East Midlands,England,Conservative,Labour,Gen Kitchen,17734,0.403,0.125,17734,12248,9456,1570,2704,0,0,0,0,0,0,0,0,0,273,43985,0.574
 Wells and Mendip Hills,E14001572,Somerset,South West,England,Conservative,Liberal Democrat,Tessa Munt,23622,0.469,0.221,3527,12501,6611,23622,2068,0,0,0,0,0,0,0,0,0,2039,50368,0.699
-Welwyn Hatfield,E14001573,Hertfordshire,East England,England,Conservative,Labour,Andrew Lewin,19877,0.41,0.0784,19877,16078,6397,3117,2986,0,0,0,0,0,0,0,0,0,0,48455,0.644
+Welwyn Hatfield,E14001573,Hertfordshire,East,England,Conservative,Labour,Andrew Lewin,19877,0.41,0.0784,19877,16078,6397,3117,2986,0,0,0,0,0,0,0,0,0,0,48455,0.644
 West Bromwich,E14001574,West Midlands,West Midlands,England,Conservative,Labour,Sarah Coombes,16872,0.462,0.262,16872,7318,7101,1314,2036,0,0,0,0,0,0,0,0,0,1840,36481,0.493
 West Dorset,E14001575,Dorset,South West,England,Conservative,Liberal Democrat,Edward Morello,26999,0.507,0.146,3086,19210,0,26999,2288,0,0,0,0,0,0,0,0,0,1022,53223,0.698
 West Ham and Beckton,E14001576,London,London,England,Labour,Labour,James Asser,16434,0.452,0.254,16434,3781,2800,1606,3897,0,0,0,0,0,0,0,0,0,7830,36497,0.461
 West Lancashire,E14001577,Lancashire,North West,England,Labour,Labour,Ashley Dalton,22305,0.505,0.308,22305,8680,7909,2043,3263,0,0,0,0,0,0,0,0,0,0,44200,0.603
-West Suffolk,E14001578,Suffolk,East England,England,Conservative,Conservative,Nick Timothy,15814,0.343,0.0701,12567,15814,9623,4284,2910,0,0,0,0,0,0,0,0,0,963,46331,0.6
+West Suffolk,E14001578,Suffolk,East,England,Conservative,Conservative,Nick Timothy,15814,0.343,0.0701,12567,15814,9623,4284,2910,0,0,0,0,0,0,0,0,0,963,46331,0.6
 West Worcestershire,E14001579,Worcestershire,West Midlands,England,Conservative,Conservative,Harriett Baldwin,19783,0.362,0.12,8335,19783,7902,13236,5068,0,0,0,0,0,0,0,0,0,363,54687,0.703
 Westmorland and Lonsdale,E14001580,Cumbria,North West,England,Conservative,Liberal Democrat,Tim Farron,31061,0.627,0.433,2306,9589,4842,31061,1486,0,0,0,0,0,0,0,0,0,249,49533,0.688
 Weston-super-Mare,E14001581,Somerset,South West,England,Conservative,Labour,Dan Aldridge,16310,0.385,0.104,16310,11901,7735,3756,2688,0,0,0,0,0,0,0,0,0,0,42533,0.601
@@ -526,7 +526,7 @@ Wimbledon,E14001586,London,London,England,Conservative,Liberal Democrat,Paul Koh
 Winchester,E14001587,Hampstead,South East,England,Conservative,Liberal Democrat,Danny Chambers,29939,0.525,0.241,3023,16118,4797,29939,2740,0,0,0,0,0,0,0,0,0,459,57261,0.729
 Windsor,E14001588,Berkshire,South East,England,Conservative,Conservative,Jack Rankin,16483,0.364,0.142,10026,16483,4660,9539,2288,0,0,0,0,0,0,0,0,0,2250,45419,0.617
 Wirral West,E14001589,Mersyside,North West,England,Labour,Labour,Matthew Patrick,23156,0.464,0.199,23156,13158,6422,3055,4160,0,0,0,0,0,0,0,0,0,0,50138,0.686
-Witham,E14001590,Essex,East England,England,Conservative,Conservative,Priti Patel,18827,0.372,0.102,13682,18827,9870,3439,3539,0,0,0,0,0,0,0,0,0,1246,50603,0.64
+Witham,E14001590,Essex,East,England,Conservative,Conservative,Priti Patel,18827,0.372,0.102,13682,18827,9870,3439,3539,0,0,0,0,0,0,0,0,0,1246,50603,0.64
 Witney,E14001591,Oxfordshire,South East,England,Conservative,Liberal Democrat,Charlie Maynard,20832,0.412,0.0858,4773,16493,6307,20832,1661,0,0,0,0,0,0,0,0,0,518,50584,0.67
 Woking,E14001592,Surrey,South East,England,Conservative,Liberal Democrat,Will Forster,24019,0.499,0.234,4444,12773,4888,24019,1853,0,0,0,0,0,0,0,0,0,168,48145,0.66
 Wokingham,E14001593,Berkshire,South East,England,Conservative,Liberal Democrat,Clive Jones,25743,0.477,0.155,3631,17398,5274,25743,1953,0,0,0,0,0,0,0,0,0,0,53999,0.72
@@ -648,4 +648,4 @@ South Antrim,N05000014,,,Northern Ireland,Democratic Unionist Party,Ulster Union
 South Down,N05000015,,,Northern Ireland,Sinn Fein,Sinn Fein,Chris Hazzard,19698,0.435,9280,0,0,0,0,0,0,0,19698,7349,3187,1411,10418,1893,0,1287,45243,0.59
 Strangford,N05000016,,,Northern Ireland,Democratic Unionist Party,Democratic Unionist Party,Jim Shannon,15559,0.4,5131,0,0,0,0,0,0,0,2793,15559,10428,3941,1783,3143,413,849,38060,0.522
 Upper Bann,N05000017,,,Northern Ireland,Democratic Unionist Party,Democratic Unionist Party,Carla Lockhart,21642,0.457,7406,0,0,0,0,0,0,0,14236,21642,6322,3662,1496,0,0,0,47125,0.58
-West Tyrone,N05000018,,,Northern Ireland,Sinn Fein,Sinn Fein,�rfhlaith Begley,22711,0.52,15917,0,0,0,0,0,0,0,22711,6794,2287,2683,5821,2530,0,869,42826,0.59
+West Tyrone,N05000018,,,Northern Ireland,Sinn Fein,Sinn Fein,Orfhlaith Begley,22711,0.52,15917,0,0,0,0,0,0,0,22711,6794,2287,2683,5821,2530,0,869,42826,0.59
