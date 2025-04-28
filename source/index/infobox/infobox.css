@@ -32,8 +32,15 @@
 }
 
 #infobox p:empty,
-#infobox img:empty {
+#infobox img[src=""] {
     display: none;
+}
+
+#infobox #infobox_mp_img {
+    display: none; /* display is mostly changed by js, but this is just the default value */
+
+    width: 50px;
+
 }
 
 #infobox p:not(:first-child) {
