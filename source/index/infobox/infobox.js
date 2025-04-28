@@ -20,13 +20,13 @@ paths.forEach(path => {
 
     path.addEventListener('click', evt => {
         infoLocked = true;
-        const constituencyWinnerData = constituencyWinners.find(cons => cons.name === remUS(evt.target.id));
+        const constituencyData = constituencyWinners.find(cons => cons.name === remUS(evt.target.id));
 
         document.querySelector("#infobox_title").textContent        = remUS(evt.target.id);
-        document.querySelector("#infobox_country").textContent      = '--country--';
-        document.querySelector("#infobox_region").textContent       = '--region--';
-        document.querySelector("#infobox_mp_name").textContent      = '--mp name--';
-        document.querySelector("#infobox_mp_party").textContent     = remUS(constituencyWinnerData.winner_2024);
+        document.querySelector("#infobox_country").textContent      = constituencyData.country;
+        document.querySelector("#infobox_region").textContent       = constituencyData.region;
+        document.querySelector("#infobox_mp_name").textContent      = constituencyData.MP_name;
+        document.querySelector("#infobox_mp_party").textContent     = remUS(constituencyData.winner_2024);
         document.querySelector("#infobox_mp_tenure").textContent    = '--tenure--';
     });
 });
