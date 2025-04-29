@@ -18,7 +18,7 @@
     display: none;
 
     width: calc(100% - var(--infobox_spacing)*2);
-    margin-left: var(--infobox_spacing);
+    margin: var(--infobox_spacing);
 
     color: var(--highlight_colour);
 }
