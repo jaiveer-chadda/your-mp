@@ -14,6 +14,15 @@
     border-radius: 10px;
 }
 
+#infobox hr {
+    display: none;
+
+    width: calc(100% - var(--infobox_spacing)*2);
+    margin-left: var(--infobox_spacing);
+
+    color: var(--highlight_colour);
+}
+
 @media only screen and (max-width: 1150px) {
     #infobox {
         display: none; /* this is a placeholder */
@@ -21,7 +30,7 @@
 }
 
 #infobox_title {
-    margin: 15px;
+    margin: var(--infobox_spacing);
     min-height: 60px;
 
     font-size: 25px;
@@ -36,15 +45,25 @@
     display: none;
 }
 
-#infobox #infobox_mp_img {
+#infobox_mp_img {
     display: none; /* display is mostly changed by js, but this is just the default value */
 
-    width: 50px;
+    width: 70px;
+    float: right;
 
+    border-radius: 5px;
+    margin: 0 var(--infobox_spacing) var(--infobox_spacing) 0;
+}
+
+#infobox_mp_name,
+#infobox_mp_party,
+#infobox_mp_tenure {
+    display: block;
+    overflow: hidden;
 }
 
 #infobox p:not(:first-child) {
-    margin: 5px 15px;
+    margin: 5px var(--infobox_spacing);
 }
 
 #infobox p:last-child {

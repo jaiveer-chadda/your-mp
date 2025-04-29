@@ -3,11 +3,11 @@
     --secondary_colour: #282828;
     --highlight_colour: #696969;
     --text_colour: #DDDDDD;
+    --constituency_colour: white;
 
     --navbar_height: 40px;
     --navbar_button_spacing: 30px;
-
-    --constituency_colour: white;
+    --infobox_spacing: 15px
 }
 
 * {

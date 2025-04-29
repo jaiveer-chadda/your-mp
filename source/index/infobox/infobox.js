@@ -5,6 +5,7 @@ const constituencyWinners = await getConstituencyWinners();
 
 const paths = document.querySelectorAll('#map_container svg path');
 const infoboxTitle = document.getElementById('infobox_title');
+const infoboxHRs = document.querySelectorAll('#infobox hr');
 const MP_img = document.getElementById('infobox_mp_img');
 
 let infoBoxLocked = false;
@@ -33,6 +34,9 @@ paths.forEach(path => {
         document.querySelector("#infobox_mp_tenure").textContent          = '--tenure--';
         MP_img.src = "resources/images/stand_in_mp_portrait.png"
         MP_img.style.display = "inline";
+        infoboxHRs.forEach(hr => {
+           hr.style.display = "block";
+        });
     });
 });
 
@@ -45,5 +49,8 @@ document.addEventListener('click', (evt) => {
             p.textContent = '';
         });
         MP_img.style.display = "none";
+        infoboxHRs.forEach(hr => {
+            hr.style.display = "none";
+        });
     }
 });
