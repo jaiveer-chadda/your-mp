@@ -25,10 +25,9 @@ paths.forEach(path => {
         const constituencyData = constituencyWinners.find(cons => cons.name === remUS(evt.target.id));
 
         document.querySelector("#infobox_title").textContent              = remUS(evt.target.id);
-        document.querySelector("#infobox_country_and_region").textContent =
-            constituencyData.country + (constituencyData.region ? (" - " + constituencyData.region) : "");
-        document.querySelector("#infobox_county").textContent             =
-            (constituencyData.county ? constituencyData.county : "---");
+        document.querySelector("#infobox_country").textContent            = constituencyData.country;
+        document.querySelector("#infobox_region_and_county").textContent  =
+            constituencyData.region + (constituencyData.county ? (" - " + constituencyData.county) : "");
         document.querySelector("#infobox_mp_name").textContent            = constituencyData.MP_name;
         document.querySelector("#infobox_mp_party").textContent           = remUS(constituencyData.winner_2024);
         document.querySelector("#infobox_mp_tenure").textContent          = '--tenure--';
