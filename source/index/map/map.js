@@ -7,7 +7,7 @@ let viewBox = { x: 0, y: 0, width: defaultWidth, height: defaultHeight };
 let scaleX = 0;
 let scaleY = 0;
 
-const zoomFactor = 1.2;
+const zoomFactor = 1.1;
 const MIN_ZOOM = 0.95;
 const MAX_ZOOM = 15;
 
