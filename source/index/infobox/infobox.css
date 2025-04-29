@@ -42,8 +42,7 @@
 
 #infobox #infobox_location_info p:empty,
 #infobox #infobox_mp_info p:empty,
-#infobox img[src=""]
-{
+#infobox img[src=""] {
     display: none;
 }
 
@@ -59,15 +58,13 @@
 
 #infobox_mp_name,
 #infobox_mp_party,
-#infobox_mp_tenure
-{
+#infobox_mp_tenure {
     display: block;
     overflow: hidden;
 }
 
 #infobox #infobox_location_info p,
-#infobox #infobox_mp_info p
-{
+#infobox #infobox_mp_info p {
     margin: 5px var(--infobox_spacing);
 }
 
