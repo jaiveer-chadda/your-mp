@@ -1,3 +1,5 @@
+/* ----- overall infobox ----- */
+
 #infobox {
     background-color: var(--secondary_colour);
     color: var(--text_colour);
@@ -14,6 +16,32 @@
     border-radius: 10px;
 }
 
+@media only screen and (max-width: 1150px) {
+    #infobox {
+        display: none; /* placeholder */
+    }
+}
+
+
+
+/* ----- infobox subsections ----- */
+
+#infobox #infobox_location_info p,
+#infobox #infobox_mp_info p {
+    margin: 5px var(--infobox_spacing);
+}
+
+#infobox_mp_info p {
+    display: block;
+    overflow: hidden;
+}
+
+#infobox #infobox_location_info p:empty,
+#infobox #infobox_mp_info p:empty,
+#infobox #infobox_mp_info img[src=""] {
+    display: none;
+}
+
 #infobox hr {
     display: none;
 
@@ -23,11 +51,9 @@
     color: var(--highlight_colour);
 }
 
-@media only screen and (max-width: 1150px) {
-    #infobox {
-        display: none; /* this is a placeholder */
-    }
-}
+
+
+/* ----- specific infobox fields ----- */
 
 #infobox_title {
     margin: var(--infobox_spacing);
@@ -40,14 +66,8 @@
     align-items: center;
 }
 
-#infobox #infobox_location_info p:empty,
-#infobox #infobox_mp_info p:empty,
-#infobox img[src=""] {
-    display: none;
-}
-
 #infobox_mp_img {
-    display: none; /* display is mostly changed by js, but this is just the default value */
+    display: none; /* display is mostly changed by js - this is just the default value */
 
     width: 70px;
     float: right;
@@ -56,16 +76,8 @@
     margin: 0 var(--infobox_spacing) var(--infobox_spacing) 0;
 }
 
-#infobox_mp_name,
-#infobox_mp_party,
-#infobox_mp_tenure {
-    display: block;
-    overflow: hidden;
-}
-
-#infobox #infobox_location_info p,
-#infobox #infobox_mp_info p {
-    margin: 5px var(--infobox_spacing);
+#infobox_mp_name {
+    font-size: 0;
 }
 
 #infobox #infobox_mp_info {
