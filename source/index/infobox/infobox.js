@@ -26,8 +26,8 @@ paths.forEach(path => {
 
         document.getElementById("infobox_title").textContent              = remUS(evt.target.id);
         document.getElementById("infobox_country").textContent            = constituencyData.country;
-        document.getElementById("infobox_region_and_county").textContent  =
-            constituencyData.region + (constituencyData.county ? (" - " + constituencyData.county) : "");
+        document.getElementById("infobox_region_or_county").textContent  =
+            constituencyData.county ? (constituencyData.county) : constituencyData.region;
         document.getElementById("infobox_mp_name").textContent            = constituencyData.MP_name;
         document.getElementById("infobox_mp_party").textContent           = remUS(constituencyData.winner_2024);
         document.getElementById("infobox_mp_tenure").textContent          = '--tenure--';
