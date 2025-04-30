@@ -26,8 +26,8 @@
 
 /* ----- infobox subsections ----- */
 
-#infobox #infobox_location_info p,
-#infobox #infobox_mp_info p {
+#infobox_location_info p,
+#infobox_mp_info p {
     margin: 5px var(--infobox_spacing);
 }
 
@@ -36,9 +36,9 @@
     overflow: hidden;
 }
 
-#infobox #infobox_location_info p:empty,
-#infobox #infobox_mp_info p:empty,
-#infobox #infobox_mp_info img[src=""] {
+#infobox_location_info p:empty,
+#infobox_mp_info p:empty,
+#infobox_mp_info img[src=""] {
     display: none;
 }
 
@@ -60,10 +60,15 @@
     min-height: 60px;
 
     font-size: 25px;
-    font-weight: bold;
+    font-weight: bolder;
 
     display: flex;
     align-items: center;
+}
+
+#infobox_country {
+    font-size: 20px;
+    font-weight: bold;
 }
 
 #infobox_mp_img {
@@ -77,7 +82,8 @@
 }
 
 #infobox_mp_name {
-    font-size: 0;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 #infobox #infobox_mp_info {
