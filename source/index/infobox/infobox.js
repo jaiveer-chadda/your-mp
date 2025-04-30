@@ -1,4 +1,4 @@
-import { getConstituencyWinners, remUS } from '../../meta/master.js';
+import { getConstituencyWinners, remUS, getPartyColours } from '../../meta/master.js';
 
 const constituencyWinners = await getConstituencyWinners();
 // console.log(constituencyWinners)
@@ -38,6 +38,7 @@ paths.forEach(path => {
         document
             .querySelectorAll("#infobox_mp_info p span")
             .forEach(span => { span.style.display = "inline-block"; });
+        document.getElementById("infobox_mp_party_colour").style.backgroundColor = getPartyColours()[constituencyData.winner_2024]
         document.getElementById("infobox_mp_info").style.display = "block";
     });
 });

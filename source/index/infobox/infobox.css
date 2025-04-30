@@ -98,7 +98,7 @@
 
 #infobox_mp_party_colour {
     display: none;
-    background: red;
+    background: var(--secondary_colour);
 
     margin-right: 2px;
 
