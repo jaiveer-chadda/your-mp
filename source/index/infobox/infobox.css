@@ -42,6 +42,11 @@
     display: none;
 }
 
+#infobox_mp_info {
+    display: none;
+    margin-bottom: 20px;
+}
+
 #infobox hr {
     display: none;
 
@@ -86,6 +91,23 @@
     font-weight: bold;
 }
 
-#infobox #infobox_mp_info {
-    margin-bottom: 20px;
+#infobox_mp_info p span {
+    display: none;
+    vertical-align: middle;
+}
+
+#infobox_mp_party_colour {
+    display: none;
+    background: red;
+
+    margin-right: 2px;
+
+    width: 0.8em;
+    height: 0.8em;
+
+    border-radius: 5px;
+}
+
+#infobox_mp_party {
+    display: none;
 }
