@@ -15,7 +15,7 @@ export function getPartyColours() {
         Democratic_Unionist_Party: "#D36A4B",
         Alliance_Party: "#CDAF2C",
         Independent: "#909090",
-        Speaker_of_the_House_of_Commons: "#000000",
+        Speaker: "#000000",
         Traditional_Unionist_Voice: "#0C3A6A",
         Ulster_Unionist_Party: "#A1CDF0"
     }
